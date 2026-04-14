@@ -1,0 +1,532 @@
+ticker,company_name,sic,sic_description,cluster
+LOGC,ContextLogic Holdings Inc.,5961,Retail-Catalog & Mail-Order Houses,0
+ZENA,"ZenaTech, Inc.",7372,Services-Prepackaged Software,0
+TE,T1 Energy Inc.,3674,Semiconductors & Related Devices,0
+WAY,Waystar Holding Corp.,7373,Services-Computer Integrated Systems Design,0
+WCT,Wellchange Holdings Co Ltd,7372,Services-Prepackaged Software,0
+SBET,"SharpLink Gaming, Inc.",7372,Services-Prepackaged Software,0
+ORKT,ORANGEKLOUD TECHNOLOGY INC.,7372,Services-Prepackaged Software,0
+MNDR,Mobile-health Network Solutions,7372,Services-Prepackaged Software,0
+NATL,NCR Atleos Corp,3578,Calculating & Accounting Machines (No Electronic Computers),0
+ARM,ARM HOLDINGS PLC /UK,3674,Semiconductors & Related Devices,0
+NVNI,Nvni Group Ltd,7372,Services-Prepackaged Software,2
+UMAC,"Unusual Machines, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,0
+LAES,SEALSQ Corp,3674,Semiconductors & Related Devices,0
+RBRK,"Rubrik, Inc.",7372,Services-Prepackaged Software,0
+SVCO,"Silvaco Group, Inc.",7372,Services-Prepackaged Software,0
+RZLV,REZOLVE AI PLC,7370,"Services-Computer Programming, Data Processing, Etc.",0
+MBLY,Mobileye Global Inc.,7372,Services-Prepackaged Software,0
+QBTS,D-Wave Quantum Inc.,7374,Services-Computer Processing & Data Preparation,0
+HUBC,Hub Cyber Security Ltd.,3576,Computer Communications Equipment,0
+GRRR,Gorilla Technology Group Inc.,7372,Services-Prepackaged Software,0
+NCNO,"nCino, Inc.",7372,Services-Prepackaged Software,0
+BMR,Beamr Imaging Ltd.,7372,Services-Prepackaged Software,0
+SGN,"Signing Day Sports, Inc.",7374,Services-Computer Processing & Data Preparation,0
+GXAI,GAXOS.AI INC.,7372,Services-Prepackaged Software,2
+OS,"OneStream, Inc.",7372,Services-Prepackaged Software,0
+UBXG,U-BX Technology Ltd.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+WLDS,Wearable Devices Ltd.,3576,Computer Communications Equipment,2
+HOUR,"Hour Loop, Inc",5961,Retail-Catalog & Mail-Order Houses,0
+CYN,Cyngn Inc.,7371,Services-Computer Programming Services,2
+BZAI,"Blaize Holdings, Inc.",3674,Semiconductors & Related Devices,2
+INFA,Informatica Inc.,7372,Services-Prepackaged Software,0
+WRD,WeRide Inc.,7373,Services-Computer Integrated Systems Design,0
+KD,"Kyndryl Holdings, Inc.",7373,Services-Computer Integrated Systems Design,0
+AMPL,"Amplitude, Inc.",7372,Services-Prepackaged Software,0
+CCSI,"Consensus Cloud Solutions, Inc.",7372,Services-Prepackaged Software,0
+CWAN,"Clearwater Analytics Holdings, Inc.",7372,Services-Prepackaged Software,0
+ECX,ECARX Holdings Inc.,7373,Services-Computer Integrated Systems Design,0
+ARBE,Arbe Robotics Ltd.,7373,Services-Computer Integrated Systems Design,0
+DH,Definitive Healthcare Corp.,7372,Services-Prepackaged Software,0
+ARQQ,Arqit Quantum Inc.,7372,Services-Prepackaged Software,2
+GCT,GigaCloud Technology Inc,5961,Retail-Catalog & Mail-Order Houses,0
+YOU,"Clear Secure, Inc.",7372,Services-Prepackaged Software,0
+BLND,"Blend Labs, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+CLBT,Cellebrite DI Ltd.,7372,Services-Prepackaged Software,0
+DDL,Dingdong (Cayman) Ltd,5961,Retail-Catalog & Mail-Order Houses,0
+EVCM,EverCommerce Inc.,7372,Services-Prepackaged Software,0
+ZETA,Zeta Global Holdings Corp.,7372,Services-Prepackaged Software,0
+HEPS,D-MARKET Electronic Services & Trading,5961,Retail-Catalog & Mail-Order Houses,0
+DJT,Trump Media & Technology Group Corp.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+NEXN,Nexxen International Ltd.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+GNS,Genius Group Ltd,7372,Services-Prepackaged Software,2
+NXDR,"Nextdoor Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+NPWR,NET Power Inc.,3620,Electrical Industrial Apparatus,0
+MNDY,monday.com Ltd.,7372,Services-Prepackaged Software,0
+BZ,Kanzhun Ltd,7370,"Services-Computer Programming, Data Processing, Etc.",0
+SMWB,SIMILARWEB LTD.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+IAS,INTEGRAL AD SCIENCE HOLDING CORP.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+AISP,"Airship AI Holdings, Inc.",7372,Services-Prepackaged Software,0
+INDI,"indie Semiconductor, Inc.",3674,Semiconductors & Related Devices,0
+HOLO,MicroCloud Hologram Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",2
+SOUN,"SOUNDHOUND AI, INC.",7372,Services-Prepackaged Software,0
+TBLA,Taboola.com Ltd.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+SSM,Sono Group N.V.,3674,Semiconductors & Related Devices,2
+HCTI,"Healthcare Triangle, Inc.",7373,Services-Computer Integrated Systems Design,2
+YMM,Full Truck Alliance Co. Ltd.,7372,Services-Prepackaged Software,0
+RGTI,"Rigetti Computing, Inc.",7371,Services-Computer Programming Services,0
+VMEO,"Vimeo, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+SMRT,"SmartRent, Inc.",7373,Services-Computer Integrated Systems Design,0
+BBAI,"BigBear.ai Holdings, Inc.",7372,Services-Prepackaged Software,0
+PL,Planet Labs PBC,3663,Radio & Tv Broadcasting & Communications Equipment,0
+SRAD,Sportradar Group AG,7370,"Services-Computer Programming, Data Processing, Etc.",0
+GLBE,Global-E Online Ltd.,7372,Services-Prepackaged Software,0
+KVYO,"Klaviyo, Inc.",7372,Services-Prepackaged Software,0
+MRVL,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices,0
+CPNG,"Coupang, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+NABL,"N-able, Inc.",7372,Services-Prepackaged Software,0
+LUXE,LuxExperience B.V.,5961,Retail-Catalog & Mail-Order Houses,0
+SEMR,"SEMrush Holdings, Inc.",7372,Services-Prepackaged Software,0
+SHLS,"Shoals Technologies Group, Inc.",3674,Semiconductors & Related Devices,0
+RUM,Rumble Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+BMBL,Bumble Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+DCBO,Docebo Inc.,7372,Services-Prepackaged Software,0
+TASK,"TaskUs, Inc.",7374,Services-Computer Processing & Data Preparation,0
+TUYA,Tuya Inc.,7372,Services-Prepackaged Software,0
+DSP,Viant Technology Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+FTCI,"FTC Solar, Inc.",3674,Semiconductors & Related Devices,0
+AUR,"Aurora Innovation, Inc.",7373,Services-Computer Integrated Systems Design,0
+PLTK,Playtika Holding Corp.,7374,Services-Computer Processing & Data Preparation,0
+CERT,"Certara, Inc.",7372,Services-Prepackaged Software,0
+PDYN,Palladyne AI Corp.,7372,Services-Prepackaged Software,0
+TIXT,TELUS International (Cda) Inc.,7374,Services-Computer Processing & Data Preparation,0
+IONQ,"IonQ, Inc.",7373,Services-Computer Integrated Systems Design,0
+CGNT,Cognyte Software Ltd.,7372,Services-Prepackaged Software,0
+LSPD,Lightspeed Commerce Inc.,7372,Services-Prepackaged Software,0
+NVTS,Navitas Semiconductor Corp,3674,Semiconductors & Related Devices,0
+MSGM,Motorsport Games Inc.,7372,Services-Prepackaged Software,0
+CXAI,CXApp Inc.,7372,Services-Prepackaged Software,0
+GRND,Grindr Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+SKYT,"SkyWater Technology, Inc",3674,Semiconductors & Related Devices,0
+DV,"DoubleVerify Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+CCC,CCC Intelligent Solutions Holdings Inc.,7372,Services-Prepackaged Software,0
+LYTHF,Lytus Technologies Holdings PTV. Ltd.,7374,Services-Computer Processing & Data Preparation,2
+U,Unity Software Inc.,7372,Services-Prepackaged Software,0
+RXT,"Rackspace Technology, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+GDRX,"GoodRx Holdings, Inc.",7374,Services-Computer Processing & Data Preparation,0
+CRDO,Credo Technology Group Holding Ltd,3674,Semiconductors & Related Devices,0
+VERX,"Vertex, Inc.",7372,Services-Prepackaged Software,0
+SST,"System1, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",2
+EVLV,"Evolv Technologies Holdings, Inc.",3577,"Computer Peripheral Equipment, NEC",0
+OST,"Ostin Technology Group Co., Ltd.",3679,"Electronic Components, NEC",0
+API,"Agora, Inc.",7372,Services-Prepackaged Software,0
+MSPR,"MSP Recovery, Inc.",7374,Services-Computer Processing & Data Preparation,0
+SKLZ,Skillz Inc.,7374,Services-Computer Processing & Data Preparation,0
+FROG,JFrog Ltd,7372,Services-Prepackaged Software,0
+MLGO,MicroAlgo Inc.,7371,Services-Computer Programming Services,2
+IAC,IAC Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+MAXN,"Maxeon Solar Technologies, Ltd.",3674,Semiconductors & Related Devices,0
+KC,Kingsoft Cloud Holdings Ltd,7372,Services-Prepackaged Software,0
+GTM,ZoomInfo Technologies Inc.,7372,Services-Prepackaged Software,0
+YALA,Yalla Group Ltd,7370,"Services-Computer Programming, Data Processing, Etc.",0
+VTEX,VTEX,7372,Services-Prepackaged Software,0
+XPER,Xperi Inc.,7372,Services-Prepackaged Software,0
+BILL,"BILL Holdings, Inc.",7372,Services-Prepackaged Software,2
+NXTT,Next Technology Holding Inc.,7374,Services-Computer Processing & Data Preparation,0
+PRCH,"Porch Group, Inc.",7372,Services-Prepackaged Software,0
+SOGP,Sound Group Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+OCFT,"ONECONNECT FINANCIAL TECHNOLOGY CO., LTD.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+MAPS,"WM TECHNOLOGY, INC.",7372,Services-Prepackaged Software,0
+AVPT,"AvePoint, Inc.",7372,Services-Prepackaged Software,0
+SKIL,Skillsoft Corp.,7372,Services-Prepackaged Software,0
+DT,"Dynatrace, Inc.",7372,Services-Prepackaged Software,0
+XRX,Xerox Holdings Corp,3577,"Computer Peripheral Equipment, NEC",0
+WIMI,WiMi Hologram Cloud Inc.,7372,Services-Prepackaged Software,0
+CRNC,Cerence Inc.,7372,Services-Prepackaged Software,0
+CHWY,"Chewy, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+CLVT,CLARIVATE PLC,7374,Services-Computer Processing & Data Preparation,0
+DOYU,DouYu International Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc.",0
+CRKN,Crown Electrokinetics Corp.,3679,"Electronic Components, NEC",2
+SY,So-Young International Inc.,7374,Services-Computer Processing & Data Preparation,0
+QUBT,Quantum Computing Inc.,7372,Services-Prepackaged Software,0
+JMIA,Jumia Technologies AG,5961,Retail-Catalog & Mail-Order Houses,0
+XTKG,"X3 Holdings Co., Ltd.",7371,Services-Computer Programming Services,2
+BKSY,BlackSky Technology Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,0
+APP,AppLovin Corp,7370,"Services-Computer Programming, Data Processing, Etc.",0
+RVLV,"Revolve Group, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+STNE,StoneCo Ltd.,7374,Services-Computer Processing & Data Preparation,0
+CRSR,"Corsair Gaming, Inc.",3577,"Computer Peripheral Equipment, NEC",0
+GDYN,"GRID DYNAMICS HOLDINGS, INC.",7372,Services-Prepackaged Software,0
+MTC,"MMTec, Inc.",7372,Services-Prepackaged Software,0
+WKEY,Wisekey International Holding S.A.,7374,Services-Computer Processing & Data Preparation,0
+CMBM,Cambium Networks Corp,3663,Radio & Tv Broadcasting & Communications Equipment,0
+OPRA,Opera Ltd,7372,Services-Prepackaged Software,0
+ALAB,"Astera Labs, Inc.",3674,Semiconductors & Related Devices,0
+PATH,"UiPath, Inc.",7372,Services-Prepackaged Software,0
+SOHU,Sohu.com Ltd,7374,Services-Computer Processing & Data Preparation,0
+AVGO,Broadcom Inc.,3674,Semiconductors & Related Devices,0
+HUYA,HUYA Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+DAY,"Dayforce, Inc.",7372,Services-Prepackaged Software,0
+BILI,Bilibili Inc.,7374,Services-Computer Processing & Data Preparation,0
+JAMF,Jamf Holding Corp.,7372,Services-Prepackaged Software,0
+ZEPP,Zepp Health Corp,3571,Electronic Computers,0
+TEM,"Tempus AI, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+ZS,"Zscaler, Inc.",7371,Services-Computer Programming Services,0
+RDDT,"Reddit, Inc.",7374,Services-Computer Processing & Data Preparation,0
+PAGS,PagSeguro Digital Ltd.,7374,Services-Computer Processing & Data Preparation,0
+GFS,GLOBALFOUNDRIES Inc.,3674,Semiconductors & Related Devices,0
+RBBN,Ribbon Communications Inc.,7373,Services-Computer Integrated Systems Design,0
+ESTC,Elastic N.V.,7372,Services-Prepackaged Software,0
+CFLT,"Confluent, Inc.",7372,Services-Prepackaged Software,0
+REKR,"Rekor Systems, Inc.",3669,"Communications Equipment, NEC",0
+FRSX,Foresight Autonomous Holdings Ltd.,7372,Services-Prepackaged Software,0
+DXC,DXC Technology Co,7374,Services-Computer Processing & Data Preparation,0
+TRVG,trivago N.V.,7374,Services-Computer Processing & Data Preparation,0
+CARS,Cars.com Inc.,7374,Services-Computer Processing & Data Preparation,0
+VREX,Varex Imaging Corp,3679,"Electronic Components, NEC",0
+BRZE,"Braze, Inc.",7372,Services-Prepackaged Software,0
+YYAI,AIRWA INC.,7370,"Services-Computer Programming, Data Processing, Etc.",2
+WORX,SCWorx Corp.,7374,Services-Computer Processing & Data Preparation,2
+VRT,Vertiv Holdings Co,3679,"Electronic Components, NEC",0
+TTD,"Trade Desk, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+AIP,"Arteris, Inc.",3674,Semiconductors & Related Devices,0
+BL,"BLACKLINE, INC.",7372,Services-Prepackaged Software,0
+CDLX,"Cardlytics, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",2
+PHUN,"Phunware, Inc.",7374,Services-Computer Processing & Data Preparation,0
+BE,Bloom Energy Corp,3620,Electrical Industrial Apparatus,0
+KULR,"KULR Technology Group, Inc.",3670,Electronic Components & Accessories,0
+TENB,"Tenable Holdings, Inc.",7372,Services-Prepackaged Software,0
+OKTA,"Okta, Inc.",7372,Services-Prepackaged Software,0
+DAVA,Endava plc,7371,Services-Computer Programming Services,0
+GTLB,Gitlab Inc.,7372,Services-Prepackaged Software,0
+ICHR,"ICHOR HOLDINGS, LTD.",3674,Semiconductors & Related Devices,0
+GOOGL,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+COUR,"Coursera, Inc.",7372,Services-Prepackaged Software,0
+TEAM,Atlassian Corp,7372,Services-Prepackaged Software,0
+TOST,"Toast, Inc.",7374,Services-Computer Processing & Data Preparation,0
+ONDS,Ondas Holdings Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,0
+HPE,Hewlett Packard Enterprise Co,3570,Computer & office Equipment,0
+NNDM,Nano Dimension Ltd.,3672,Printed Circuit Boards,0
+IOT,Samsara Inc.,7373,Services-Computer Integrated Systems Design,0
+EVER,"EverQuote, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+SNOW,Snowflake Inc.,7372,Services-Prepackaged Software,0
+HCAT,"Health Catalyst, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+FLUT,Flutter Entertainment plc,7370,"Services-Computer Programming, Data Processing, Etc.",0
+LITE,Lumentum Holdings Inc.,3669,"Communications Equipment, NEC",0
+UPWK,"UPWORK, INC",7374,Services-Computer Processing & Data Preparation,0
+CMRC,"Commerce.com, Inc.",7372,Services-Prepackaged Software,0
+LAW,"CS Disco, Inc.",7372,Services-Prepackaged Software,0
+BZUN,Baozun Inc.,5961,Retail-Catalog & Mail-Order Houses,0
+NRDS,"NERDWALLET, INC.",7374,Services-Computer Processing & Data Preparation,0
+SLE,"Super League Enterprise, Inc.",7373,Services-Computer Integrated Systems Design,0
+NTNX,"Nutanix, Inc.",7372,Services-Prepackaged Software,0
+ZIP,"ZIPRECRUITER, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+W,Wayfair Inc.,5961,Retail-Catalog & Mail-Order Houses,0
+PENG,"Penguin Solutions, Inc.",3674,Semiconductors & Related Devices,0
+VERI,"Veritone, Inc.",7374,Services-Computer Processing & Data Preparation,0
+YEXT,"Yext, Inc.",7374,Services-Computer Processing & Data Preparation,0
+PCOR,"PROCORE TECHNOLOGIES, INC.",7372,Services-Prepackaged Software,0
+MOMO,Hello Group Inc.,7372,Services-Prepackaged Software,0
+GDDY,GoDaddy Inc.,7373,Services-Computer Integrated Systems Design,0
+WEAV,"Weave Communications, Inc.",7372,Services-Prepackaged Software,0
+QRVO,"Qorvo, Inc.",3674,Semiconductors & Related Devices,0
+KSCP,"Knightscope, Inc.",3669,"Communications Equipment, NEC",0
+CYBR,CyberArk Software Ltd.,7372,Services-Prepackaged Software,0
+CMCM,Cheetah Mobile Inc.,7372,Services-Prepackaged Software,0
+SABR,Sabre Corp,7370,"Services-Computer Programming, Data Processing, Etc.",0
+RDNW,"RideNow Group, Inc.",7371,Services-Computer Programming Services,0
+ANET,"Arista Networks, Inc.",3576,Computer Communications Equipment,0
+MGNI,"MAGNITE, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+WB,WEIBO Corp,7370,"Services-Computer Programming, Data Processing, Etc.",0
+SHOP,SHOPIFY INC.,7372,Services-Prepackaged Software,0
+PCTY,Paylocity Holding Corp,7372,Services-Prepackaged Software,0
+PAYC,"Paycom Software, Inc.",7372,Services-Prepackaged Software,0
+ZM,"Zoom Communications, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+S,"SentinelOne, Inc.",7372,Services-Prepackaged Software,0
+DOCN,"DigitalOcean Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+LIF,"Life360, Inc.",7374,Services-Computer Processing & Data Preparation,0
+ATEN,"A10 Networks, Inc.",3576,Computer Communications Equipment,0
+AI,"C3.ai, Inc.",7372,Services-Prepackaged Software,0
+SFIX,"Stitch Fix, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+WIX,Wix.com Ltd.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+WATT,Energous Corp,3663,Radio & Tv Broadcasting & Communications Equipment,0
+DELL,Dell Technologies Inc.,3571,Electronic Computers,0
+SAIC,Science Applications International Corp,7373,Services-Computer Integrated Systems Design,0
+CXM,"Sprinklr, Inc.",7372,Services-Prepackaged Software,0
+PD,"PagerDuty, Inc.",7372,Services-Prepackaged Software,0
+INTA,"Intapp, Inc.",7372,Services-Prepackaged Software,0
+VISL,"Vislink Technologies, Inc.",3669,"Communications Equipment, NEC",2
+SNAP,Snap Inc,7370,"Services-Computer Programming, Data Processing, Etc.",0
+DUOL,"Duolingo, Inc.",7372,Services-Prepackaged Software,0
+DDOG,"Datadog, Inc.",7372,Services-Prepackaged Software,0
+RPD,"Rapid7, Inc.",7372,Services-Prepackaged Software,0
+EVTC,"EVERTEC, Inc.",7374,Services-Computer Processing & Data Preparation,0
+GLOB,Globant S.A.,7374,Services-Computer Processing & Data Preparation,0
+AUUD,AUDDIA INC.,7374,Services-Computer Processing & Data Preparation,0
+SSTK,"Shutterstock, Inc.",7374,Services-Computer Processing & Data Preparation,0
+FRSH,Freshworks Inc.,7372,Services-Prepackaged Software,0
+CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software,0
+HNST,"Honest Company, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+JOYY,JOYY Inc.,7374,Services-Computer Processing & Data Preparation,0
+ALKT,"ALKAMI TECHNOLOGY, INC.",7372,Services-Prepackaged Software,0
+VIPS,Vipshop Holdings Ltd,5961,Retail-Catalog & Mail-Order Houses,0
+XTIA,"XTI Aerospace, Inc.",7371,Services-Computer Programming Services,0
+GWRE,"Guidewire Software, Inc.",7372,Services-Prepackaged Software,0
+ATHM,Autohome Inc.,7374,Services-Computer Processing & Data Preparation,0
+TRIP,"TripAdvisor, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+GDS,GDS Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc.",0
+MQ,"Marqeta, Inc.",7372,Services-Prepackaged Software,0
+AMPG,"AmpliTech Group, Inc.",3669,"Communications Equipment, NEC",0
+FSLY,"Fastly, Inc.",7372,Services-Prepackaged Software,0
+SSYS,STRATASYS LTD.,3577,"Computer Peripheral Equipment, NEC",0
+SPT,"Sprout Social, Inc.",7372,Services-Prepackaged Software,0
+COMM,"CommScope Holding Company, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,0
+DOCS,"Doximity, Inc.",7371,Services-Computer Programming Services,0
+BAND,Bandwidth Inc.,7372,Services-Prepackaged Software,0
+NBIS,Nebius Group N.V.,7370,"Services-Computer Programming, Data Processing, Etc.",0
+XYZ,"Block, Inc.",7372,Services-Prepackaged Software,0
+UI,Ubiquiti Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,0
+XNET,Xunlei Ltd,7372,Services-Prepackaged Software,0
+VNET,"VNET Group, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+PINS,"PINTEREST, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+DOMO,"DOMO, INC.",7372,Services-Prepackaged Software,0
+UPLD,"Upland Software, Inc.",7372,Services-Prepackaged Software,0
+CARG,"CarGurus, Inc.",7374,Services-Computer Processing & Data Preparation,0
+TBCH,Turtle Beach Corp,3669,"Communications Equipment, NEC",0
+MTSI,"MACOM Technology Solutions Holdings, Inc.",3674,Semiconductors & Related Devices,0
+THR,"Thermon Group Holdings, Inc.",3620,Electrical Industrial Apparatus,0
+TDUP,ThredUp Inc.,5961,Retail-Catalog & Mail-Order Houses,0
+JKS,"JinkoSolar Holding Co., Ltd.",3674,Semiconductors & Related Devices,0
+ASAN,"Asana, Inc.",7372,Services-Prepackaged Software,0
+DQ,DAQO NEW ENERGY CORP.,3674,Semiconductors & Related Devices,0
+NET,"Cloudflare, Inc.",7372,Services-Prepackaged Software,0
+EXFY,"Expensify, Inc.",7372,Services-Prepackaged Software,0
+EB,"Eventbrite, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+GNRC,GENERAC HOLDINGS INC.,3621,Motors & Generators,0
+PSTG,"Pure Storage, Inc.",3572,Computer Storage Devices,0
+DBX,"DROPBOX, INC.",7372,Services-Prepackaged Software,0
+VUZI,Vuzix Corp,3663,Radio & Tv Broadcasting & Communications Equipment,0
+ENPH,"Enphase Energy, Inc.",3674,Semiconductors & Related Devices,0
+BLZE,"Backblaze, Inc.",7372,Services-Prepackaged Software,0
+ALRM,"Alarm.com Holdings, Inc.",7372,Services-Prepackaged Software,0
+BLDP,Ballard Power Systems Inc.,3620,Electrical Industrial Apparatus,0
+SITM,SITIME Corp,3674,Semiconductors & Related Devices,2
+TWLO,TWILIO INC,7372,Services-Prepackaged Software,0
+WK,WORKIVA INC,7372,Services-Prepackaged Software,0
+VRSK,"Verisk Analytics, Inc.",7374,Services-Computer Processing & Data Preparation,0
+MDB,"MongoDB, Inc.",7372,Services-Prepackaged Software,0
+APPN,APPIAN CORP,7372,Services-Prepackaged Software,0
+DMRC,Digimarc CORP,7373,Services-Computer Integrated Systems Design,0
+POET,POET TECHNOLOGIES INC.,3674,Semiconductors & Related Devices,0
+APPF,APPFOLIO INC,7372,Services-Prepackaged Software,0
+PUBM,"PubMatic, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+ATOM,Atomera Inc,3674,Semiconductors & Related Devices,0
+SEDG,"SOLAREDGE TECHNOLOGIES, INC.",3674,Semiconductors & Related Devices,0
+NXPI,NXP Semiconductors N.V.,3674,Semiconductors & Related Devices,0
+QTWO,"Q2 Holdings, Inc.",7372,Services-Prepackaged Software,0
+FN,Fabrinet,3661,Telephone & Telegraph Apparatus,0
+HUBS,HUBSPOT INC,7372,Services-Prepackaged Software,0
+SSNC,SS&C Technologies Holdings Inc,7372,Services-Prepackaged Software,0
+CDW,CDW Corp,5961,Retail-Catalog & Mail-Order Houses,0
+BEEM,Beam Global,3674,Semiconductors & Related Devices,0
+VEEV,VEEVA SYSTEMS INC,7372,Services-Prepackaged Software,0
+PRO,"PROS Holdings, Inc.",7371,Services-Computer Programming Services,0
+AOSL,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674,Semiconductors & Related Devices,0
+RNG,"RingCentral, Inc.",7374,Services-Computer Processing & Data Preparation,0
+BLIN,"Bridgeline Digital, Inc.",7372,Services-Prepackaged Software,0
+AVNW,"AVIAT NETWORKS, INC.",3663,Radio & Tv Broadcasting & Communications Equipment,0
+CSIQ,Canadian Solar Inc.,3674,Semiconductors & Related Devices,0
+SMCI,"Super Micro Computer, Inc.",3571,Electronic Computers,0
+NOW,"ServiceNow, Inc.",7372,Services-Prepackaged Software,0
+BOX,BOX INC,7372,Services-Prepackaged Software,0
+VRNS,VARONIS SYSTEMS INC,7372,Services-Prepackaged Software,0
+QVCGA,"QVC Group, Inc.",5961,Retail-Catalog & Mail-Order Houses,0
+EPAM,"EPAM Systems, Inc.",7371,Services-Computer Programming Services,0
+SSTI,"SOUNDTHINKING, INC.",7372,Services-Prepackaged Software,0
+DGLY,"DIGITAL ALLY, INC.",3663,Radio & Tv Broadcasting & Communications Equipment,2
+HIMX,"Himax Technologies, Inc.",3674,Semiconductors & Related Devices,0
+ORCL,ORACLE CORP,7372,Services-Prepackaged Software,0
+PERI,Perion Network Ltd.,7371,Services-Computer Programming Services,0
+LDOS,"Leidos Holdings, Inc.",7373,Services-Computer Integrated Systems Design,0
+LEDS,SemiLEDs Corp,3674,Semiconductors & Related Devices,0
+SIMO,Silicon Motion Technology CORP,3674,Semiconductors & Related Devices,0
+BIDU,"Baidu, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+WDAY,"Workday, Inc.",7374,Services-Computer Processing & Data Preparation,0
+PANW,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC",0
+TRUE,"TrueCar, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+META,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+MX,MAGNACHIP SEMICONDUCTOR Corp,3674,Semiconductors & Related Devices,0
+PLTR,Palantir Technologies Inc.,7372,Services-Prepackaged Software,0
+RBLX,Roblox Corp,7372,Services-Prepackaged Software,0
+GRVY,"GRAVITY Co., Ltd.",7374,Services-Computer Processing & Data Preparation,0
+LPL,"LG Display Co., Ltd.",3679,"Electronic Components, NEC",0
+FIVN,"Five9, Inc.",7374,Services-Computer Processing & Data Preparation,0
+MXL,"MAXLINEAR, INC",3674,Semiconductors & Related Devices,2
+LZ,"LEGALZOOM.COM, INC.",7374,Services-Computer Processing & Data Preparation,0
+MPWR,MONOLITHIC POWER SYSTEMS INC,3674,Semiconductors & Related Devices,0
+AMBA,AMBARELLA INC,3674,Semiconductors & Related Devices,0
+BLKB,BLACKBAUD INC,7372,Services-Prepackaged Software,0
+UCTT,"Ultra Clean Holdings, Inc.",3674,Semiconductors & Related Devices,0
+FSLR,"FIRST SOLAR, INC.",3674,Semiconductors & Related Devices,0
+FTNT,"Fortinet, Inc.",3577,"Computer Peripheral Equipment, NEC",0
+DOCU,"DOCUSIGN, INC.",7372,Services-Prepackaged Software,0
+FA,FIRST ADVANTAGE CORP,7374,Services-Computer Processing & Data Preparation,0
+CEVA,CEVA INC,7370,"Services-Computer Programming, Data Processing, Etc.",0
+CVLT,COMMVAULT SYSTEMS INC,7372,Services-Prepackaged Software,0
+TBRG,"TruBridge, Inc.",7371,Services-Computer Programming Services,0
+VRNT,VERINT SYSTEMS INC,7373,Services-Computer Integrated Systems Design,0
+NJDCY,NIDEC CORP,3621,Motors & Generators,0
+ATEYY,ADVANTEST CORP,3674,Semiconductors & Related Devices,0
+AAOI,"APPLIED OPTOELECTRONICS, INC.",3674,Semiconductors & Related Devices,0
+APLD,Applied Digital Corp.,7374,Services-Computer Processing & Data Preparation,0
+STX,Seagate Technology Holdings plc,3572,Computer Storage Devices,0
+SNCR,SYNCHRONOSS TECHNOLOGIES INC,7371,Services-Computer Programming Services,0
+BBBY,"BED BATH & BEYOND, INC.",5961,Retail-Catalog & Mail-Order Houses,0
+GSIT,GSI TECHNOLOGY INC,3674,Semiconductors & Related Devices,0
+LASR,"NLIGHT, INC.",3674,Semiconductors & Related Devices,0
+WIT,WIPRO LTD,7371,Services-Computer Programming Services,0
+NTGR,"NETGEAR, INC.",3661,Telephone & Telegraph Apparatus,0
+ASX,"ASE Technology Holding Co., Ltd.",3674,Semiconductors & Related Devices,0
+PDFS,PDF SOLUTIONS INC,7372,Services-Prepackaged Software,0
+CRNT,CERAGON NETWORKS LTD,3663,Radio & Tv Broadcasting & Communications Equipment,0
+TTMI,TTM TECHNOLOGIES INC,3672,Printed Circuit Boards,0
+PI,IMPINJ INC,3679,"Electronic Components, NEC",2
+IPGP,IPG PHOTONICS CORP,3674,Semiconductors & Related Devices,0
+NTES,"NetEase, Inc.",7372,Services-Prepackaged Software,0
+ONTF,ON24 INC.,7372,Services-Prepackaged Software,0
+CRM,"Salesforce, Inc.",7372,Services-Prepackaged Software,0
+QLYS,"QUALYS, INC.",7372,Services-Prepackaged Software,0
+IFNNY,INFINEON TECHNOLOGIES AG,3674,Semiconductors & Related Devices,0
+LPSN,LIVEPERSON INC,7372,Services-Prepackaged Software,0
+ON,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,0
+HSTM,HEALTHSTREAM INC,7370,"Services-Computer Programming, Data Processing, Etc.",0
+PLUG,PLUG POWER INC,3620,Electrical Industrial Apparatus,0
+SPSC,SPS COMMERCE INC,7372,Services-Prepackaged Software,0
+MTLS,MATERIALISE NV,7372,Services-Prepackaged Software,0
+AUDC,AUDIOCODES LTD,3661,Telephone & Telegraph Apparatus,0
+EXTR,EXTREME NETWORKS INC,3576,Computer Communications Equipment,0
+NTCT,NETSCOUT SYSTEMS INC,7373,Services-Computer Integrated Systems Design,0
+BB,BLACKBERRY Ltd,7372,Services-Prepackaged Software,0
+INFY,Infosys Ltd,7371,Services-Computer Programming Services,0
+DOX,AMDOCS LTD,7371,Services-Computer Programming Services,0
+IMMR,IMMERSION CORP,3577,"Computer Peripheral Equipment, NEC",0
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CORP,7371,Services-Computer Programming Services,0
+MANH,MANHATTAN ASSOCIATES INC,7372,Services-Prepackaged Software,2
+AXTI,AXT INC,3674,Semiconductors & Related Devices,0
+CNXN,PC CONNECTION INC,5961,Retail-Catalog & Mail-Order Houses,0
+DSGX,DESCARTES SYSTEMS GROUP INC,7372,Services-Prepackaged Software,0
+MRCY,MERCURY SYSTEMS INC,3670,Electronic Components & Accessories,0
+FFIV,"F5, INC.",3576,Computer Communications Equipment,0
+AMKR,"AMKOR TECHNOLOGY, INC.",3674,Semiconductors & Related Devices,0
+TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,3674,Semiconductors & Related Devices,0
+NVDA,NVIDIA CORP,3674,Semiconductors & Related Devices,0
+OSPN,OneSpan Inc.,7373,Services-Computer Integrated Systems Design,0
+FORM,FORMFACTOR INC,3674,Semiconductors & Related Devices,0
+OSIS,OSI SYSTEMS INC,3674,Semiconductors & Related Devices,0
+SLAB,SILICON LABORATORIES INC.,3674,Semiconductors & Related Devices,0
+UMC,UNITED MICROELECTRONICS CORP,3674,Semiconductors & Related Devices,0
+LOGI,LOGITECH INTERNATIONAL S.A.,3577,"Computer Peripheral Equipment, NEC",0
+BSY,BENTLEY SYSTEMS INC,7372,Services-Prepackaged Software,0
+CLS,CELESTICA INC,3672,Printed Circuit Boards,0
+EGHT,8X8 INC /DE/,7374,Services-Computer Processing & Data Preparation,0
+SLP,"Simulations Plus, Inc.",7373,Services-Computer Integrated Systems Design,0
+INSG,INSEEGO CORP.,3669,"Communications Equipment, NEC",0
+AMZN,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,0
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES LTD,7372,Services-Prepackaged Software,0
+VRSN,VERISIGN INC/CA,7371,Services-Computer Programming Services,0
+PEGA,PEGASYSTEMS INC,7374,Services-Computer Processing & Data Preparation,0
+FDS,FACTSET RESEARCH SYSTEMS INC,7370,"Services-Computer Programming, Data Processing, Etc.",0
+CSGS,CSG SYSTEMS INTERNATIONAL INC,7374,Services-Computer Processing & Data Preparation,0
+OLED,UNIVERSAL DISPLAY CORP PA,3670,Electronic Components & Accessories,0
+NICE,NICE Ltd.,7372,Services-Prepackaged Software,0
+OTEX,OPEN TEXT CORP,7373,Services-Computer Integrated Systems Design,0
+NTAP,"NetApp, Inc.",3572,Computer Storage Devices,0
+SAP,SAP SE,7372,Services-Prepackaged Software,0
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,7372,Services-Prepackaged Software,0
+SCKT,"SOCKET MOBILE, INC.",3571,Electronic Computers,0
+CIEN,CIENA CORP,3661,Telephone & Telegraph Apparatus,0
+ACIW,"ACI WORLDWIDE, INC.",7372,Services-Prepackaged Software,0
+STM,STMicroelectronics N.V.,3674,Semiconductors & Related Devices,0
+NSIT,INSIGHT ENTERPRISES INC,5961,Retail-Catalog & Mail-Order Houses,0
+EAF,GRAFTECH INTERNATIONAL LTD,3620,Electrical Industrial Apparatus,2
+TSEM,TOWER SEMICONDUCTOR LTD,3674,Semiconductors & Related Devices,0
+AEIS,ADVANCED ENERGY INDUSTRIES INC,3679,"Electronic Components, NEC",0
+OMCL,"OMNICELL, INC.",3571,Electronic Computers,0
+ADTN,"ADTRAN Holdings, Inc.",3661,Telephone & Telegraph Apparatus,0
+NOK,NOKIA CORP,3663,Radio & Tv Broadcasting & Communications Equipment,0
+RMBS,RAMBUS INC,3674,Semiconductors & Related Devices,0
+VIAV,VIAVI SOLUTIONS INC.,3674,Semiconductors & Related Devices,0
+DDD,3D SYSTEMS CORP,7372,Services-Prepackaged Software,0
+TCX,TUCOWS INC /PA/,7374,Services-Computer Processing & Data Preparation,0
+INOD,INNODATA INC,7374,Services-Computer Processing & Data Preparation,0
+JBL,JABIL INC,3672,Printed Circuit Boards,0
+SANM,SANMINA CORP,3672,Printed Circuit Boards,0
+GILT,GILAT SATELLITE NETWORKS LTD,3663,Radio & Tv Broadcasting & Communications Equipment,0
+INTU,INTUIT INC.,7372,Services-Prepackaged Software,0
+CTLP,"CANTALOUPE, INC.",3578,Calculating & Accounting Machines (No Electronic Computers),0
+MTCH,"Match Group, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",0
+FCEL,FUELCELL ENERGY INC,3620,Electrical Industrial Apparatus,0
+SPNS,SAPIENS INTERNATIONAL CORP N V,7372,Services-Prepackaged Software,0
+SNPS,SYNOPSYS INC,7372,Services-Prepackaged Software,0
+AMSC,AMERICAN SUPERCONDUCTOR CORP /DE/,3621,Motors & Generators,0
+PRGS,PROGRESS SOFTWARE CORP /MA,7372,Services-Prepackaged Software,0
+ESE,ESCO TECHNOLOGIES INC,3669,"Communications Equipment, NEC",0
+FLEX,FLEX LTD.,3672,Printed Circuit Boards,0
+ALGM,"ALLEGRO MICROSYSTEMS, INC.",3674,Semiconductors & Related Devices,0
+BHE,BENCHMARK ELECTRONICS INC,3672,Printed Circuit Boards,0
+TYL,TYLER TECHNOLOGIES INC,7372,Services-Prepackaged Software,0
+CSCO,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment,0
+PTC,PTC INC.,7372,Services-Prepackaged Software,0
+LSCC,LATTICE SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,0
+DGII,DIGI INTERNATIONAL INC,3576,Computer Communications Equipment,0
+HLIT,HARMONIC INC.,3663,Radio & Tv Broadcasting & Communications Equipment,0
+GEN,Gen Digital Inc.,7372,Services-Prepackaged Software,0
+POWI,POWER INTEGRATIONS INC,3674,Semiconductors & Related Devices,0
+MCHP,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices,0
+APH,AMPHENOL CORP /DE/,3678,Electronic Connectors,0
+SYNA,SYNAPTICS Inc,3674,Semiconductors & Related Devices,0
+TDC,TERADATA CORP /DE/,7372,Services-Prepackaged Software,0
+CDNS,CADENCE DESIGN SYSTEMS INC,7372,Services-Prepackaged Software,0
+PLAB,PHOTRONICS INC,3674,Semiconductors & Related Devices,0
+MITK,MITEK SYSTEMS INC,3577,"Computer Peripheral Equipment, NEC",0
+QCOM,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment,0
+AIFF,"FIREFLY NEUROSCIENCE, INC.",7372,Services-Prepackaged Software,0
+CLFD,"Clearfield, Inc.",3661,Telephone & Telegraph Apparatus,0
+ADBE,ADOBE INC.,7372,Services-Prepackaged Software,0
+MSFT,MICROSOFT CORP,7372,Services-Prepackaged Software,0
+PLXS,PLEXUS CORP,3672,Printed Circuit Boards,0
+JKHY,JACK HENRY & ASSOCIATES INC,7373,Services-Computer Integrated Systems Design,0
+CRUS,"CIRRUS LOGIC, INC.",3674,Semiconductors & Related Devices,0
+KOPN,KOPIN CORP,3674,Semiconductors & Related Devices,0
+ADSK,"Autodesk, Inc.",7372,Services-Prepackaged Software,0
+VICR,VICOR CORP,3679,"Electronic Components, NEC",0
+LNW,"Light & Wonder, Inc.",7373,Services-Computer Integrated Systems Design,0
+RCAT,"Red Cat Holdings, Inc.",7372,Services-Prepackaged Software,0
+UIS,UNISYS CORP,7373,Services-Computer Integrated Systems Design,0
+RAMP,"LiveRamp Holdings, Inc.",7374,Services-Computer Processing & Data Preparation,0
+MU,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,0
+ERIC,ERICSSON LM TELEPHONE CO,3663,Radio & Tv Broadcasting & Communications Equipment,0
+EA,ELECTRONIC ARTS INC.,7372,Services-Prepackaged Software,0
+QMCO,QUANTUM CORP /DE/,3572,Computer Storage Devices,2
+PAR,PAR TECHNOLOGY CORP,3578,Calculating & Accounting Machines (No Electronic Computers),0
+AAPL,Apple Inc.,3571,Electronic Computers,0
+TLS,TELOS CORP,7373,Services-Computer Integrated Systems Design,0
+PSN,PARSONS CORP,7373,Services-Computer Integrated Systems Design,0
+WWD,"Woodward, Inc.",3620,Electrical Industrial Apparatus,0
+WDC,WESTERN DIGITAL CORP,3572,Computer Storage Devices,0
+VSH,VISHAY INTERTECHNOLOGY INC,3670,Electronic Components & Accessories,0
+TXN,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices,0
+SMTC,SEMTECH CORP,3674,Semiconductors & Related Devices,2
+PBI,PITNEY BOWES INC /DE/,3579,"Office Machines, NEC",0
+AGYS,AGILYSYS INC,7373,Services-Computer Integrated Systems Design,0
+VYX,NCR Voyix Corp,3578,Calculating & Accounting Machines (No Electronic Computers),0
+NSSC,"NAPCO SECURITY TECHNOLOGIES, INC",3669,"Communications Equipment, NEC",2
+MSI,"Motorola Solutions, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,0
+MVIS,"MICROVISION, INC.",3679,"Electronic Components, NEC",0
+MEI,METHODE ELECTRONICS INC,3678,Electronic Connectors,0
+KLIC,KULICKE & SOFFA INDUSTRIES INC,3674,Semiconductors & Related Devices,0
+IBM,INTERNATIONAL BUSINESS MACHINES CORP,3570,Computer & office Equipment,0
+INTC,INTEL CORP,3674,Semiconductors & Related Devices,0
+HUBB,HUBBELL INC,3670,Electronic Components & Accessories,0
+HPQ,HP INC,3570,Computer & office Equipment,0
+FELE,FRANKLIN ELECTRIC CO INC,3621,Motors & Generators,0
+DIOD,DIODES INC /DEL/,3674,Semiconductors & Related Devices,0
+DBD,"DIEBOLD NIXDORF, Inc",3578,Calculating & Accounting Machines (No Electronic Computers),0
+CTS,CTS CORP,3672,Printed Circuit Boards,0
+CMTL,COMTECH TELECOMMUNICATIONS CORP /DE/,3663,Radio & Tv Broadcasting & Communications Equipment,0
+CACI,CACI INTERNATIONAL INC /DE/,7373,Services-Computer Integrated Systems Design,0
+ADP,AUTOMATIC DATA PROCESSING INC,7374,Services-Computer Processing & Data Preparation,0
+AMAT,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,0
+ADI,ANALOG DEVICES INC,3674,Semiconductors & Related Devices,0
+SWKS,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices,2
+AMD,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,0

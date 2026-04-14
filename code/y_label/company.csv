@@ -1,0 +1,927 @@
+1,0000002186,BKTI,BK Technologies Corp,3663,Radio & Tv Broadcasting & Communications Equipment
+2,0000002488,AMD,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices
+3,0000004127,SWKS,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices
+4,0000006281,ADI,ANALOG DEVICES INC,3674,Semiconductors & Related Devices
+5,0000006951,AMAT,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices
+6,0000008146,ALOT,"AstroNova, Inc.",3577,"Computer Peripheral Equipment, NEC"
+7,0000008670,ADP,AUTOMATIC DATA PROCESSING INC,7374,Services-Computer Processing & Data Preparation
+8,0000016058,CACI,CACI INTERNATIONAL INC /DE/,7373,Services-Computer Integrated Systems Design
+9,0000023197,CMTL,COMTECH TELECOMMUNICATIONS CORP /DE/,3663,Radio & Tv Broadcasting & Communications Equipment
+10,0000026058,CTS,CTS CORP,3672,Printed Circuit Boards
+11,0000028823,DBD,"DIEBOLD NIXDORF, Inc",3578,Calculating & Accounting Machines (No Electronic Computers)
+12,0000029002,DIOD,DIODES INC /DEL/,3674,Semiconductors & Related Devices
+13,0000033533,ESP,ESPEY MFG & ELECTRONICS CORP,3679,"Electronic Components, NEC"
+14,0000038725,FELE,FRANKLIN ELECTRIC CO INC,3621,Motors & Generators
+15,0000047217,HPQ,HP INC,3570,Computer & office Equipment
+16,0000048898,HUBB,HUBBELL INC,3670,Electronic Components & Accessories
+17,0000050292,IEHC,IEH Corp,3678,Electronic Connectors
+18,0000050471,TRAK,"ReposiTrak, Inc.",7374,Services-Computer Processing & Data Preparation
+19,0000050863,INTC,INTEL CORP,3674,Semiconductors & Related Devices
+20,0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,3570,Computer & office Equipment
+21,0000056978,KLIC,KULICKE & SOFFA INDUSTRIES INC,3674,Semiconductors & Related Devices
+22,0000061004,LGL,LGL GROUP INC,3679,"Electronic Components, NEC"
+23,0000065270,MEI,METHODE ELECTRONICS INC,3678,Electronic Connectors
+24,0000065770,MVIS,"MICROVISION, INC.",3679,"Electronic Components, NEC"
+25,0000068505,MSI,"Motorola Solutions, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment
+26,0000069633,NSSC,"NAPCO SECURITY TECHNOLOGIES, INC",3669,"Communications Equipment, NEC"
+27,0000070866,VYX,NCR Voyix Corp,3578,Calculating & Accounting Machines (No Electronic Computers)
+28,0000078749,AGYS,AGILYSYS INC,7373,Services-Computer Integrated Systems Design
+29,0000078814,PBI,PITNEY BOWES INC /DE/,3579,"Office Machines, NEC"
+30,0000084112,RSKIA,"GEORGE RISK INDUSTRIES, INC.",3669,"Communications Equipment, NEC"
+31,0000087050,NEON,Neonode Inc.,3679,"Electronic Components, NEC"
+32,0000088941,SMTC,SEMTECH CORP,3674,Semiconductors & Related Devices
+33,0000091668,SODI,SOLITRON DEVICES INC,3674,Semiconductors & Related Devices
+34,0000096885,TIKK,TEL INSTRUMENT ELECTRONICS CORP,3670,Electronic Components & Accessories
+35,0000097476,TXN,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices
+36,0000103730,VSH,VISHAY INTERTECHNOLOGY INC,3670,Electronic Components & Accessories
+37,0000106040,WDC,WESTERN DIGITAL CORP,3572,Computer Storage Devices
+38,0000108312,WWD,"Woodward, Inc.",3620,Electrical Industrial Apparatus
+39,0000275880,PSN,PARSONS CORP,7373,Services-Computer Integrated Systems Design
+40,0000278165,OMQS,OMNIQ Corp.,7373,Services-Computer Integrated Systems Design
+41,0000320121,TLS,TELOS CORP,7373,Services-Computer Integrated Systems Design
+42,0000320193,AAPL,Apple Inc.,3571,Electronic Computers
+43,0000356037,CSPI,CSP INC /MA/,7373,Services-Computer Integrated Systems Design
+44,0000708821,PAR,PAR TECHNOLOGY CORP,3578,Calculating & Accounting Machines (No Electronic Computers)
+45,0000709283,QMCO,QUANTUM CORP /DE/,3572,Computer Storage Devices
+46,0000712515,EA,ELECTRONIC ARTS INC.,7372,Services-Prepackaged Software
+47,0000717826,ERIC,ERICSSON LM TELEPHONE CO,3663,Radio & Tv Broadcasting & Communications Equipment
+48,0000719733,KTCC,KEY TRONIC CORP,3672,Printed Circuit Boards
+49,0000722313,NSYS,NORTECH SYSTEMS INC,3679,"Electronic Components, NEC"
+50,0000722572,FKWL,FRANKLIN WIRELESS CORP,3661,Telephone & Telegraph Apparatus
+51,0000723125,MU,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices
+52,0000724910,NVEC,NVE CORP /NEW/,3674,Semiconductors & Related Devices
+53,0000729580,BELFA,BEL FUSE INC /NJ,3677,"Electronic Coils, Transformers & Other Inductors"
+54,0000733269,RAMP,"LiveRamp Holdings, Inc.",7374,Services-Computer Processing & Data Preparation
+55,0000736012,INTZ,INTRUSION INC,3576,Computer Communications Equipment
+56,0000740664,RFIL,R F INDUSTRIES LTD,3678,Electronic Connectors
+57,0000746210,OBLG,"Oblong, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+58,0000746838,UIS,UNISYS CORP,7373,Services-Computer Integrated Systems Design
+59,0000748268,RCAT,"Red Cat Holdings, Inc.",7372,Services-Prepackaged Software
+60,0000750004,LNW,"Light & Wonder, Inc.",7373,Services-Computer Integrated Systems Design
+61,0000751978,VICR,VICOR CORP,3679,"Electronic Components, NEC"
+62,0000769397,ADSK,"Autodesk, Inc.",7372,Services-Prepackaged Software
+63,0000771266,KOPN,KOPIN CORP,3674,Semiconductors & Related Devices
+64,0000772406,CRUS,"CIRRUS LOGIC, INC.",3674,Semiconductors & Related Devices
+65,0000779152,JKHY,JACK HENRY & ASSOCIATES INC,7373,Services-Computer Integrated Systems Design
+66,0000785786,PLXS,PLEXUS CORP,3672,Printed Circuit Boards
+67,0000789019,MSFT,MICROSOFT CORP,7372,Services-Prepackaged Software
+68,0000790273,CONC,CONECTISYS CORP,3663,Radio & Tv Broadcasting & Communications Equipment
+69,0000796343,ADBE,ADOBE INC.,7372,Services-Prepackaged Software
+70,0000796505,CLFD,"Clearfield, Inc.",3661,Telephone & Telegraph Apparatus
+71,0000797542,VBIX,Viewbix Inc.,7372,Services-Prepackaged Software
+72,0000802257,MITI,"Mitesco, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+73,0000803578,AIFF,"FIREFLY NEUROSCIENCE, INC.",7372,Services-Prepackaged Software
+74,0000804328,QCOM,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment
+75,0000807863,MITK,MITEK SYSTEMS INC,3577,"Computer Peripheral Equipment, NEC"
+76,0000810136,PLAB,PHOTRONICS INC,3674,Semiconductors & Related Devices
+77,0000813672,CDNS,CADENCE DESIGN SYSTEMS INC,7372,Services-Prepackaged Software
+78,0000816761,TDC,TERADATA CORP /DE/,7372,Services-Prepackaged Software
+79,0000817720,SYNA,SYNAPTICS Inc,3674,Semiconductors & Related Devices
+80,0000820313,APH,AMPHENOL CORP /DE/,3678,Electronic Connectors
+81,0000827054,MCHP,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices
+82,0000828146,LINK,INTERLINK ELECTRONICS INC,3577,"Computer Peripheral Equipment, NEC"
+83,0000830616,SCIA,"SCI Engineered Materials, Inc.",3620,Electrical Industrial Apparatus
+84,0000832370,EAXR,"Ealixir, Inc.",7372,Services-Prepackaged Software
+85,0000833640,POWI,POWER INTEGRATIONS INC,3674,Semiconductors & Related Devices
+86,0000836690,ISSC,INNOVATIVE SOLUTIONS & SUPPORT INC,7371,Services-Computer Programming Services
+87,0000840715,CLRO,CLEARONE INC,3661,Telephone & Telegraph Apparatus
+88,0000846546,BNSOF,BONSO ELECTRONICS INTERNATIONAL INC,3679,"Electronic Components, NEC"
+89,0000849399,GEN,Gen Digital Inc.,7372,Services-Prepackaged Software
+90,0000851310,HLIT,HARMONIC INC.,3663,Radio & Tv Broadcasting & Communications Equipment
+91,0000854775,DGII,DIGI INTERNATIONAL INC,3576,Computer Communications Equipment
+92,0000855658,LSCC,LATTICE SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices
+93,0000857005,PTC,PTC INC.,7372,Services-Prepackaged Software
+94,0000858877,CSCO,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment
+95,0000860731,TYL,TYLER TECHNOLOGIES INC,7372,Services-Prepackaged Software
+96,0000863436,BHE,BENCHMARK ELECTRONICS INC,3672,Printed Circuit Boards
+97,0000866291,ALGM,"ALLEGRO MICROSYSTEMS, INC.",3674,Semiconductors & Related Devices
+98,0000866374,FLEX,FLEX LTD.,3672,Printed Circuit Boards
+99,0000866439,DPLS,"DarkPulse, Inc.",7372,Services-Prepackaged Software
+100,0000866706,ESE,ESCO TECHNOLOGIES INC,3669,"Communications Equipment, NEC"
+101,0000876167,PRGS,PROGRESS SOFTWARE CORP /MA,7372,Services-Prepackaged Software
+102,0000876779,MGIC,MAGIC SOFTWARE ENTERPRISES LTD,7372,Services-Prepackaged Software
+103,0000880807,AMSC,AMERICAN SUPERCONDUCTOR CORP /DE/,3621,Motors & Generators
+104,0000882508,QUIK,QUICKLOGIC Corp,3674,Semiconductors & Related Devices
+105,0000883241,SNPS,SYNOPSYS INC,7372,Services-Prepackaged Software
+106,0000884144,ASUR,ASURE SOFTWARE INC,7373,Services-Computer Integrated Systems Design
+107,0000885740,SPNS,SAPIENS INTERNATIONAL CORP N V,7372,Services-Prepackaged Software
+108,0000886128,FCEL,FUELCELL ENERGY INC,3620,Electrical Industrial Apparatus
+109,0000889971,LPTH,LIGHTPATH TECHNOLOGIES INC,3674,Semiconductors & Related Devices
+110,0000890394,PRSO,Peraso Inc.,3674,Semiconductors & Related Devices
+111,0000891103,MTCH,"Match Group, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+112,0000894501,GRHI,"GOLD ROCK HOLDINGS, INC.",7373,Services-Computer Integrated Systems Design
+113,0000895419,WOLF,"WOLFSPEED, INC.",3674,Semiconductors & Related Devices
+114,0000896429,CTLP,"CANTALOUPE, INC.",3578,Calculating & Accounting Machines (No Electronic Computers)
+115,0000896878,INTU,INTUIT INC.,7372,Services-Prepackaged Software
+116,0000897078,KOAN,"Resonate Blends, Inc.",7372,Services-Prepackaged Software
+117,0000897322,GILT,GILAT SATELLITE NETWORKS LTD,3663,Radio & Tv Broadcasting & Communications Equipment
+118,0000897723,SANM,SANMINA CORP,3672,Printed Circuit Boards
+119,0000898293,JBL,JABIL INC,3672,Printed Circuit Boards
+120,0000903651,INOD,INNODATA INC,7374,Services-Computer Processing & Data Preparation
+121,0000909494,TCX,TUCOWS INC /PA/,7374,Services-Computer Processing & Data Preparation
+122,0000910638,DDD,3D SYSTEMS CORP,7372,Services-Prepackaged Software
+123,0000912093,VIAV,VIAVI SOLUTIONS INC.,3674,Semiconductors & Related Devices
+124,0000914139,PRKR,PARKERVISION INC,3663,Radio & Tv Broadcasting & Communications Equipment
+125,0000916793,SILC,SILICOM LTD.,3576,Computer Communications Equipment
+126,0000917273,RMBS,RAMBUS INC,3674,Semiconductors & Related Devices
+127,0000922521,FALC,FALCONSTOR SOFTWARE INC,7372,Services-Prepackaged Software
+128,0000924613,NOK,NOKIA CORP,3663,Radio & Tv Broadcasting & Communications Equipment
+129,0000926282,ADTN,"ADTRAN Holdings, Inc.",3661,Telephone & Telegraph Apparatus
+130,0000926326,OMCL,"OMNICELL, INC.",3571,Electronic Computers
+131,0000927003,AEIS,ADVANCED ENERGY INDUSTRIES INC,3679,"Electronic Components, NEC"
+132,0000928876,TSEM,TOWER SEMICONDUCTOR LTD,3674,Semiconductors & Related Devices
+133,0000931148,EAF,GRAFTECH INTERNATIONAL LTD,3620,Electrical Industrial Apparatus
+134,0000932021,GTLL,GLOBAL TECHNOLOGIES LTD,3663,Radio & Tv Broadcasting & Communications Equipment
+135,0000932696,NSIT,INSIGHT ENTERPRISES INC,5961,Retail-Catalog & Mail-Order Houses
+136,0000932787,STM,STMicroelectronics N.V.,3674,Semiconductors & Related Devices
+137,0000933972,SCWO,374Water Inc.,3621,Motors & Generators
+138,0000935036,ACIW,"ACI WORLDWIDE, INC.",7372,Services-Prepackaged Software
+139,0000936395,CIEN,CIENA CORP,3661,Telephone & Telegraph Apparatus
+140,0000943535,WHEN,"WORLD HEALTH ENERGY HOLDINGS, INC.",7372,Services-Prepackaged Software
+141,0000944075,SCKT,"SOCKET MOBILE, INC.",3571,Electronic Computers
+142,0000946581,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,7372,Services-Prepackaged Software
+143,0000948708,SMSI,"SMITH MICRO SOFTWARE, INC.",7372,Services-Prepackaged Software
+144,0001000184,SAP,SAP SE,7372,Services-Prepackaged Software
+145,0001002047,NTAP,"NetApp, Inc.",3572,Computer Storage Devices
+146,0001002638,OTEX,OPEN TEXT CORP,7373,Services-Computer Integrated Systems Design
+147,0001003935,NICE,NICE Ltd.,7372,Services-Prepackaged Software
+148,0001005284,OLED,UNIVERSAL DISPLAY CORP PA,3670,Electronic Components & Accessories
+149,0001005516,BOSC,BOS BETTER ONLINE SOLUTIONS LTD,3576,Computer Communications Equipment
+150,0001005757,CSGS,CSG SYSTEMS INTERNATIONAL INC,7374,Services-Computer Processing & Data Preparation
+151,0001013237,FDS,FACTSET RESEARCH SYSTEMS INC,7370,"Services-Computer Programming, Data Processing, Etc."
+152,0001013857,PEGA,PEGASYSTEMS INC,7374,Services-Computer Processing & Data Preparation
+153,0001014052,DTGI,"Digerati Technologies, Inc.",7374,Services-Computer Processing & Data Preparation
+154,0001014473,VRSN,VERISIGN INC/CA,7371,Services-Computer Programming Services
+155,0001015739,AWRE,AWARE INC /MA/,7372,Services-Prepackaged Software
+156,0001015922,CHKP,CHECK POINT SOFTWARE TECHNOLOGIES LTD,7372,Services-Prepackaged Software
+157,0001016838,RDCM,RADCOM LTD,3577,"Computer Peripheral Equipment, NEC"
+158,0001017303,TACT,TRANSACT TECHNOLOGIES INC,3577,"Computer Peripheral Equipment, NEC"
+159,0001018724,AMZN,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses
+160,0001019034,BKYI,BIO KEY INTERNATIONAL INC,7372,Services-Prepackaged Software
+161,0001022505,SDCH,"SideChannel, Inc.",7374,Services-Computer Processing & Data Preparation
+162,0001022652,INSG,INSEEGO CORP.,3669,"Communications Equipment, NEC"
+163,0001023459,SLP,"Simulations Plus, Inc.",7373,Services-Computer Integrated Systems Design
+164,0001023731,EGHT,8X8 INC /DE/,7374,Services-Computer Processing & Data Preparation
+165,0001024672,ELTK,ELTEK LTD,3672,Printed Circuit Boards
+166,0001030471,UTSI,UTSTARCOM HOLDINGS CORP.,3669,"Communications Equipment, NEC"
+167,0001030894,CLS,CELESTICA INC,3672,Printed Circuit Boards
+168,0001031308,BSY,BENTLEY SYSTEMS INC,7372,Services-Prepackaged Software
+169,0001032975,LOGI,LOGITECH INTERNATIONAL S.A.,3577,"Computer Peripheral Equipment, NEC"
+170,0001033767,UMC,UNITED MICROELECTRONICS CORP,3674,Semiconductors & Related Devices
+171,0001034760,WYY,WIDEPOINT CORP,7373,Services-Computer Integrated Systems Design
+172,0001034983,MINBY,MINEBEA MITSUMI Inc.,3670,Electronic Components & Accessories
+173,0001036044,INVE,"Identiv, Inc.",3577,"Computer Peripheral Equipment, NEC"
+174,0001038074,SLAB,SILICON LABORATORIES INC.,3674,Semiconductors & Related Devices
+175,0001039065,OSIS,OSI SYSTEMS INC,3674,Semiconductors & Related Devices
+176,0001039280,NTWK,NETSOL TECHNOLOGIES INC,7372,Services-Prepackaged Software
+177,0001039399,FORM,FORMFACTOR INC,3674,Semiconductors & Related Devices
+178,0001040161,PXLW,"PIXELWORKS, INC",3674,Semiconductors & Related Devices
+179,0001040896,IDN,"Intellicheck, Inc.",7372,Services-Prepackaged Software
+180,0001044777,OSPN,OneSpan Inc.,7373,Services-Computer Integrated Systems Design
+181,0001045810,NVDA,NVIDIA CORP,3674,Semiconductors & Related Devices
+182,0001045942,TRCK,"Track Group, Inc.",3669,"Communications Equipment, NEC"
+183,0001045986,FORTY,FORMULA SYSTEMS (1985) LTD,7371,Services-Computer Programming Services
+184,0001046179,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,3674,Semiconductors & Related Devices
+185,0001047127,AMKR,"AMKOR TECHNOLOGY, INC.",3674,Semiconductors & Related Devices
+186,0001048695,FFIV,"F5, INC.",3576,Computer Communications Equipment
+187,0001049521,MRCY,MERCURY SYSTEMS INC,3670,Electronic Components & Accessories
+188,0001050140,DSGX,DESCARTES SYSTEMS GROUP INC,7372,Services-Prepackaged Software
+189,0001050377,CNXN,PC CONNECTION INC,5961,Retail-Catalog & Mail-Order Houses
+190,0001051627,AXTI,AXT INC,3674,Semiconductors & Related Devices
+191,0001056696,MANH,MANHATTAN ASSOCIATES INC,7372,Services-Prepackaged Software
+192,0001058290,CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CORP,7371,Services-Computer Programming Services
+193,0001058811,IMMR,IMMERSION CORP,3577,"Computer Peripheral Equipment, NEC"
+194,0001061040,NGCG,"New Generation Consumer Group, Inc.",7371,Services-Computer Programming Services
+195,0001061612,JPOTF,Jackpot Digital Inc.,7372,Services-Prepackaged Software
+196,0001062066,AOMFF,ALSTOM,3621,Motors & Generators
+197,0001062579,DOX,AMDOCS LTD,7371,Services-Computer Programming Services
+198,0001066194,EGAN,EGAIN Corp,7372,Services-Prepackaged Software
+199,0001067491,INFY,Infosys Ltd,7371,Services-Computer Programming Services
+200,0001068689,ATDS,"Data443 Risk Mitigation, Inc.",7372,Services-Prepackaged Software
+201,0001070050,APCX,AppTech Payments Corp.,7372,Services-Prepackaged Software
+202,0001070235,BB,BLACKBERRY Ltd,7372,Services-Prepackaged Software
+203,0001078075,NTCT,NETSCOUT SYSTEMS INC,7373,Services-Computer Integrated Systems Design
+204,0001078271,EXTR,EXTREME NETWORKS INC,3576,Computer Communications Equipment
+205,0001081745,INLX,"INTELLINETICS, INC.",7372,Services-Prepackaged Software
+206,0001082733,VISM,"VISIUM TECHNOLOGIES, INC.",7371,Services-Computer Programming Services
+207,0001085921,MMTIF,MICROMEM TECHNOLOGIES INC,7371,Services-Computer Programming Services
+208,0001086434,AUDC,AUDIOCODES LTD,3661,Telephone & Telegraph Apparatus
+209,0001091223,MTLS,MATERIALISE NV,7372,Services-Prepackaged Software
+210,0001092699,SPSC,SPS COMMERCE INC,7372,Services-Prepackaged Software
+211,0001093691,PLUG,PLUG POWER INC,3620,Electrical Industrial Apparatus
+212,0001094324,SIFY,SIFY TECHNOLOGIES LTD,7370,"Services-Computer Programming, Data Processing, Etc."
+213,0001095565,HSTM,HEALTHSTREAM INC,7370,"Services-Computer Programming, Data Processing, Etc."
+214,0001097864,ON,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices
+215,0001098462,MTLK,METALINK LTD,3674,Semiconductors & Related Devices
+216,0001099369,DSNY,DESTINY MEDIA TECHNOLOGIES INC,7372,Services-Prepackaged Software
+217,0001102993,LPSN,LIVEPERSON INC,7372,Services-Prepackaged Software
+218,0001104038,VRME,"VerifyMe, Inc.",7373,Services-Computer Integrated Systems Design
+219,0001105101,GIGM,GIGAMEDIA Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+220,0001107457,IFNNY,INFINEON TECHNOLOGIES AG,3674,Semiconductors & Related Devices
+221,0001107843,QLYS,"QUALYS, INC.",7372,Services-Prepackaged Software
+222,0001108524,CRM,"Salesforce, Inc.",7372,Services-Prepackaged Software
+223,0001110611,ONTF,ON24 INC.,7372,Services-Prepackaged Software
+224,0001110646,NTES,"NetEase, Inc.",7372,Services-Prepackaged Software
+225,0001111928,IPGP,IPG PHOTONICS CORP,3674,Semiconductors & Related Devices
+226,0001114925,LTRX,LANTRONIX INC,3576,Computer Communications Equipment
+227,0001114936,UMEWF,UMeWorld Inc.,7372,Services-Prepackaged Software
+228,0001114995,PI,IMPINJ INC,3679,"Electronic Components, NEC"
+229,0001116942,TTMI,TTM TECHNOLOGIES INC,3672,Printed Circuit Boards
+230,0001119083,MNDO,MIND CTI LTD,7371,Services-Computer Programming Services
+231,0001119769,CRNT,CERAGON NETWORKS LTD,3663,Radio & Tv Broadcasting & Communications Equipment
+232,0001120914,PDFS,PDF SOLUTIONS INC,7372,Services-Prepackaged Software
+233,0001121795,GHST,GHST World Inc.,7372,Services-Prepackaged Software
+234,0001122411,ASX,"ASE Technology Holding Co., Ltd.",3674,Semiconductors & Related Devices
+235,0001122904,NTGR,"NETGEAR, INC.",3661,Telephone & Telegraph Apparatus
+236,0001123134,IMOS,CHIPMOS TECHNOLOGIES INC,3674,Semiconductors & Related Devices
+237,0001123799,WIT,WIPRO LTD,7371,Services-Computer Programming Services
+238,0001124796,LASR,"NLIGHT, INC.",3674,Semiconductors & Related Devices
+239,0001126741,GSIT,GSI TECHNOLOGY INC,3674,Semiconductors & Related Devices
+240,0001128252,SIPN,"SIPP International Industries, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment
+241,0001130713,BBBY,"BED BATH & BEYOND, INC.",5961,Retail-Catalog & Mail-Order Houses
+242,0001131554,SNCR,SYNCHRONOSS TECHNOLOGIES INC,7371,Services-Computer Programming Services
+243,0001131903,FCCN,SPECTRAL CAPITAL Corp,7374,Services-Computer Processing & Data Preparation
+244,0001137789,STX,Seagate Technology Holdings plc,3572,Computer Storage Devices
+245,0001141284,ASNS,ACTELIS NETWORKS INC,3669,"Communications Equipment, NEC"
+246,0001144879,APLD,Applied Digital Corp.,7374,Services-Computer Processing & Data Preparation
+247,0001158114,AAOI,"APPLIED OPTOELECTRONICS, INC.",3674,Semiconductors & Related Devices
+248,0001158838,ATEYY,ADVANTEST CORP,3674,Semiconductors & Related Devices
+249,0001158967,NJDCY,NIDEC CORP,3621,Motors & Generators
+250,0001166388,VRNT,VERINT SYSTEMS INC,7373,Services-Computer Integrated Systems Design
+251,0001169445,TBRG,"TruBridge, Inc.",7371,Services-Computer Programming Services
+252,0001169561,CVLT,COMMVAULT SYSTEMS INC,7372,Services-Prepackaged Software
+253,0001173489,CEVA,CEVA INC,7370,"Services-Computer Programming, Data Processing, Etc."
+254,0001178697,SONM,SONIM TECHNOLOGIES INC,3661,Telephone & Telegraph Apparatus
+255,0001210677,FA,FIRST ADVANTAGE CORP,7374,Services-Computer Processing & Data Preparation
+256,0001211805,MYSZ,"My Size, Inc.",7372,Services-Prepackaged Software
+257,0001254699,QVCD,QVC INC,5961,Retail-Catalog & Mail-Order Houses
+258,0001261333,DOCU,"DOCUSIGN, INC.",7372,Services-Prepackaged Software
+259,0001262039,FTNT,"Fortinet, Inc.",3577,"Computer Peripheral Equipment, NEC"
+260,0001272842,AIRG,AIRGAIN INC,3663,Radio & Tv Broadcasting & Communications Equipment
+261,0001274494,FSLR,"FIRST SOLAR, INC.",3674,Semiconductors & Related Devices
+262,0001275014,UCTT,"Ultra Clean Holdings, Inc.",3674,Semiconductors & Related Devices
+263,0001280058,BLKB,BLACKBAUD INC,7372,Services-Prepackaged Software
+264,0001280263,AMBA,AMBARELLA INC,3674,Semiconductors & Related Devices
+265,0001280452,MPWR,MONOLITHIC POWER SYSTEMS INC,3674,Semiconductors & Related Devices
+266,0001282631,NLST,NETLIST INC,3674,Semiconductors & Related Devices
+267,0001285170,ITMSF,INTERMAP TECHNOLOGIES CORP,7374,Services-Computer Processing & Data Preparation
+268,0001286139,LZ,"LEGALZOOM.COM, INC.",7374,Services-Computer Processing & Data Preparation
+269,0001288469,MXL,"MAXLINEAR, INC",3674,Semiconductors & Related Devices
+270,0001288847,FIVN,"Five9, Inc.",7374,Services-Computer Processing & Data Preparation
+271,0001289047,AIPG,AI Technology Group Inc.,3621,Motors & Generators
+272,0001290109,LPL,"LG Display Co., Ltd.",3679,"Electronic Components, NEC"
+273,0001290658,ITOX,"IIOT-OXYS, Inc.",7372,Services-Prepackaged Software
+274,0001291855,SPCB,SuperCom Ltd,3674,Semiconductors & Related Devices
+275,0001292490,SYIN,"Synbio International, Inc.",7374,Services-Computer Processing & Data Preparation
+276,0001313310,GRVY,"GRAVITY Co., Ltd.",7374,Services-Computer Processing & Data Preparation
+277,0001315098,RBLX,Roblox Corp,7372,Services-Prepackaged Software
+278,0001321655,PLTR,Palantir Technologies Inc.,7372,Services-Prepackaged Software
+279,0001325702,MX,MAGNACHIP SEMICONDUCTOR Corp,3674,Semiconductors & Related Devices
+280,0001326801,META,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+281,0001327318,TRUE,"TrueCar, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+282,0001327567,PANW,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC"
+283,0001327688,OOMA,OOMA INC,7374,Services-Computer Processing & Data Preparation
+284,0001327811,WDAY,"Workday, Inc.",7374,Services-Computer Processing & Data Preparation
+285,0001329099,BIDU,"Baidu, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+286,0001329394,SIMO,Silicon Motion Technology CORP,3674,Semiconductors & Related Devices
+287,0001333822,LEDS,SemiLEDs Corp,3674,Semiconductors & Related Devices
+288,0001336920,LDOS,"Leidos Holdings, Inc.",7373,Services-Computer Integrated Systems Design
+289,0001338940,PERI,Perion Network Ltd.,7371,Services-Computer Programming Services
+290,0001340476,DRTTF,DIRTT ENVIRONMENTAL SOLUTIONS LTD,7372,Services-Prepackaged Software
+291,0001341439,ORCL,ORACLE CORP,7372,Services-Prepackaged Software
+292,0001342338,HIMX,"Himax Technologies, Inc.",3674,Semiconductors & Related Devices
+293,0001342958,DGLY,"DIGITAL ALLY, INC.",3663,Radio & Tv Broadcasting & Communications Equipment
+294,0001349706,TOGI,"TurnOnGreen, Inc.",3620,Electrical Industrial Apparatus
+295,0001350102,ASTI,"Ascent Solar Technologies, Inc.",3674,Semiconductors & Related Devices
+296,0001351636,SSTI,"SOUNDTHINKING, INC.",7372,Services-Prepackaged Software
+297,0001352010,EPAM,"EPAM Systems, Inc.",7371,Services-Computer Programming Services
+298,0001355096,QVCGA,"QVC Group, Inc.",5961,Retail-Catalog & Mail-Order Houses
+299,0001355839,IPM,INTELLIGENT PROTECTION MANAGEMENT CORP.,7370,"Services-Computer Programming, Data Processing, Etc."
+300,0001356093,CREX,"CREATIVE REALITIES, INC.",7373,Services-Computer Integrated Systems Design
+301,0001360565,WFCF,"Where Food Comes From, Inc.",7372,Services-Prepackaged Software
+302,0001361113,VRNS,VARONIS SYSTEMS INC,7372,Services-Prepackaged Software
+303,0001362190,AEYE,AUDIOEYE INC,7372,Services-Prepackaged Software
+304,0001365767,ALLT,Allot Ltd.,3576,Computer Communications Equipment
+305,0001372612,BOX,BOX INC,7372,Services-Prepackaged Software
+306,0001373715,NOW,"ServiceNow, Inc.",7372,Services-Prepackaged Software
+307,0001375365,SMCI,"Super Micro Computer, Inc.",3571,Electronic Computers
+308,0001375793,MLRT,"Metalert, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment
+309,0001375877,CSIQ,Canadian Solar Inc.,3674,Semiconductors & Related Devices
+310,0001376231,VPRB,"VPR Brands, LP.",7372,Services-Prepackaged Software
+311,0001376321,CNET,ZW Data Action Technologies Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+312,0001377149,CRVW,CareView Communications Inc,3663,Radio & Tv Broadcasting & Communications Equipment
+313,0001377789,AVNW,"AVIAT NETWORKS, INC.",3663,Radio & Tv Broadcasting & Communications Equipment
+314,0001378590,BLIN,"Bridgeline Digital, Inc.",7372,Services-Prepackaged Software
+315,0001378866,GOGR,Go Green Global Technologies Corp.,3677,"Electronic Coils, Transformers & Other Inductors"
+316,0001381074,RTCJF,Baijiayun Group Ltd,7372,Services-Prepackaged Software
+317,0001383088,CYCA,CYTTA CORP.,7372,Services-Prepackaged Software
+318,0001383395,SQNS,SEQUANS COMMUNICATIONS,3674,Semiconductors & Related Devices
+319,0001384365,RDAR,"Telvantis, Inc.",7371,Services-Computer Programming Services
+320,0001384905,RNG,"RingCentral, Inc.",7374,Services-Computer Processing & Data Preparation
+321,0001386049,BYOC,"Beyond Commerce, Inc.",7374,Services-Computer Processing & Data Preparation
+322,0001387467,AOSL,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674,Semiconductors & Related Devices
+323,0001388295,ONEI,OneMeta Inc.,7374,Services-Computer Processing & Data Preparation
+324,0001392972,PRO,"PROS Holdings, Inc.",7371,Services-Computer Programming Services
+325,0001393052,VEEV,VEEVA SYSTEMS INC,7372,Services-Prepackaged Software
+326,0001394056,OSS,"ONE STOP SYSTEMS, INC.",3571,Electronic Computers
+327,0001396536,DUOT,"DUOS TECHNOLOGIES GROUP, INC.",7372,Services-Prepackaged Software
+328,0001397183,IVDA,"Iveda Solutions, Inc.",7372,Services-Prepackaged Software
+329,0001398805,BEEM,Beam Global,3674,Semiconductors & Related Devices
+330,0001402057,CDW,CDW Corp,5961,Retail-Catalog & Mail-Order Houses
+331,0001402371,ELRA,"ELRAY RESOURCES, INC.",7372,Services-Prepackaged Software
+332,0001402436,SSNC,SS&C Technologies Holdings Inc,7372,Services-Prepackaged Software
+333,0001404655,HUBS,HUBSPOT INC,7372,Services-Prepackaged Software
+334,0001408710,FN,Fabrinet,3661,Telephone & Telegraph Apparatus
+335,0001410172,RBCN,"Rubicon Technology, Inc.",3674,Semiconductors & Related Devices
+336,0001410384,QTWO,"Q2 Holdings, Inc.",7372,Services-Prepackaged Software
+337,0001410738,VPLM,Voip-pal.com Inc,3661,Telephone & Telegraph Apparatus
+338,0001413447,NXPI,NXP Semiconductors N.V.,3674,Semiconductors & Related Devices
+339,0001419612,SEDG,"SOLAREDGE TECHNOLOGIES, INC.",3674,Semiconductors & Related Devices
+340,0001419951,DTST,Data Storage Corp,7374,Services-Computer Processing & Data Preparation
+341,0001420520,ATOM,Atomera Inc,3674,Semiconductors & Related Devices
+342,0001421981,PTOP,Peer To Peer Network,7373,Services-Computer Integrated Systems Design
+343,0001422930,PUBM,"PubMatic, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+344,0001432133,KLTR,KALTURA INC,7372,Services-Prepackaged Software
+345,0001433195,APPF,APPFOLIO INC,7372,Services-Prepackaged Software
+346,0001435064,CETX,CEMTREX INC,3670,Electronic Components & Accessories
+347,0001435617,PWDY,"POWERDYNE INTERNATIONAL, INC.",7374,Services-Computer Processing & Data Preparation
+348,0001437283,RPMT,"REGO PAYMENT ARCHITECTURES, INC.",7372,Services-Prepackaged Software
+349,0001437424,POET,POET TECHNOLOGIES INC.,3674,Semiconductors & Related Devices
+350,0001437517,CLOQ,"CYBERLOQ TECHNOLOGIES, INC.",7372,Services-Prepackaged Software
+351,0001437925,GMGI,"Golden Matrix Group, Inc.",7372,Services-Prepackaged Software
+352,0001438231,DMRC,Digimarc CORP,7373,Services-Computer Integrated Systems Design
+353,0001438423,MRAM,EVERSPIN TECHNOLOGIES INC.,3674,Semiconductors & Related Devices
+354,0001441683,APPN,APPIAN CORP,7372,Services-Prepackaged Software
+355,0001441816,MDB,"MongoDB, Inc.",7372,Services-Prepackaged Software
+356,0001442145,VRSK,"Verisk Analytics, Inc.",7374,Services-Computer Processing & Data Preparation
+357,0001445305,WK,WORKIVA INC,7372,Services-Prepackaged Software
+358,0001447380,MFON,MOBIVITY HOLDINGS CORP.,7372,Services-Prepackaged Software
+359,0001447669,TWLO,TWILIO INC,7372,Services-Prepackaged Software
+360,0001451809,SITM,SITIME Corp,3674,Semiconductors & Related Devices
+361,0001453015,BLDP,Ballard Power Systems Inc.,3620,Electrical Industrial Apparatus
+362,0001454742,GMER,"GOOD GAMING, INC.",7372,Services-Prepackaged Software
+363,0001454938,TEAD,Teads Holding Co.,7370,"Services-Computer Programming, Data Processing, Etc."
+364,0001459200,ALRM,"Alarm.com Holdings, Inc.",7372,Services-Prepackaged Software
+365,0001462056,BLZE,"Backblaze, Inc.",7372,Services-Prepackaged Software
+366,0001462223,NIXX,"Nixxy, Inc.",7371,Services-Computer Programming Services
+367,0001463101,ENPH,"Enphase Energy, Inc.",3674,Semiconductors & Related Devices
+368,0001463972,VUZI,Vuzix Corp,3663,Radio & Tv Broadcasting & Communications Equipment
+369,0001467623,DBX,"DROPBOX, INC.",7372,Services-Prepackaged Software
+370,0001467761,FIEE,"FiEE, Inc.",3661,Telephone & Telegraph Apparatus
+371,0001468978,SITS,"SOUTHERN ITS INTERNATIONAL, INC.",7372,Services-Prepackaged Software
+372,0001474432,PSTG,"Pure Storage, Inc.",3572,Computer Storage Devices
+373,0001474735,GNRC,GENERAC HOLDINGS INC.,3621,Motors & Generators
+374,0001475115,EB,"Eventbrite, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+375,0001476840,EXFY,"Expensify, Inc.",7372,Services-Prepackaged Software
+376,0001477333,NET,"Cloudflare, Inc.",7372,Services-Prepackaged Software
+377,0001477641,DQ,DAQO NEW ENERGY CORP.,3674,Semiconductors & Related Devices
+378,0001477720,ASAN,"Asana, Inc.",7372,Services-Prepackaged Software
+379,0001477960,CCTC,Catalyst Crew Technologies Corp.,7370,"Services-Computer Programming, Data Processing, Etc."
+380,0001481028,HYSR,"SUNHYDROGEN, INC.",3674,Semiconductors & Related Devices
+381,0001481513,JKS,"JinkoSolar Holding Co., Ltd.",3674,Semiconductors & Related Devices
+382,0001482554,HFUS,"Hartford Creative Group, Inc.",7374,Services-Computer Processing & Data Preparation
+383,0001484778,TDUP,ThredUp Inc.,5961,Retail-Catalog & Mail-Order Houses
+384,0001485074,FRZT,"Freeze Tag, Inc.",7372,Services-Prepackaged Software
+385,0001487952,VPG,"Vishay Precision Group, Inc.",3670,Electronic Components & Accessories
+386,0001489096,THR,"Thermon Group Holdings, Inc.",3620,Electrical Industrial Apparatus
+387,0001493594,MTSI,"MACOM Technology Solutions Holdings, Inc.",3674,Semiconductors & Related Devices
+388,0001493761,TBCH,Turtle Beach Corp,3669,"Communications Equipment, NEC"
+389,0001494259,CARG,"CarGurus, Inc.",7374,Services-Computer Processing & Data Preparation
+390,0001497230,FYNN,Fyntechnical Innovations Inc,7374,Services-Computer Processing & Data Preparation
+391,0001498067,CTGL,"CITRINE GLOBAL, CORP.",7372,Services-Prepackaged Software
+392,0001498148,AITX,Artificial Intelligence Technology Solutions Inc.,7372,Services-Prepackaged Software
+393,0001498372,IWAL,iWallet Corp,3669,"Communications Equipment, NEC"
+394,0001500412,AMBQ,"Ambiq Micro, Inc.",3674,Semiconductors & Related Devices
+395,0001505155,UPLD,"Upland Software, Inc.",7372,Services-Prepackaged Software
+396,0001505952,DOMO,"DOMO, INC.",7372,Services-Prepackaged Software
+397,0001506293,PINS,"PINTEREST, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+398,0001507957,IPWR,Ideal Power Inc.,3674,Semiconductors & Related Devices
+399,0001508475,VNET,"VNET Group, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+400,0001509223,MTBLY,"Moatable, Inc.",7372,Services-Prepackaged Software
+401,0001510593,XNET,Xunlei Ltd,7372,Services-Prepackaged Software
+402,0001511737,UI,Ubiquiti Inc.,3663,Radio & Tv Broadcasting & Communications Equipment
+403,0001512673,XYZ,"Block, Inc.",7372,Services-Prepackaged Software
+404,0001513845,NBIS,Nebius Group N.V.,7370,"Services-Computer Programming, Data Processing, Etc."
+405,0001514056,TESI,Titan Environmental Solutions Inc.,7371,Services-Computer Programming Services
+406,0001514416,BAND,Bandwidth Inc.,7372,Services-Prepackaged Software
+407,0001516513,DOCS,"Doximity, Inc.",7371,Services-Computer Programming Services
+408,0001517228,COMM,"CommScope Holding Company, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment
+409,0001517375,SPT,"Sprout Social, Inc.",7372,Services-Prepackaged Software
+410,0001517389,JFIL,"Jubilant Flame International, Ltd",7371,Services-Computer Programming Services
+411,0001517396,SSYS,STRATASYS LTD.,3577,"Computer Peripheral Equipment, NEC"
+412,0001517413,FSLY,"Fastly, Inc.",7372,Services-Prepackaged Software
+413,0001518461,AMPG,"AmpliTech Group, Inc.",3669,"Communications Equipment, NEC"
+414,0001522540,MQ,"Marqeta, Inc.",7372,Services-Prepackaged Software
+415,0001523836,LITB,"LightInTheBox Holding Co., Ltd.",5961,Retail-Catalog & Mail-Order Houses
+416,0001526125,GDS,GDS Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+417,0001526520,TRIP,"TripAdvisor, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+418,0001527636,ATHM,Autohome Inc.,7374,Services-Computer Processing & Data Preparation
+419,0001528188,WNFT,Worldwide NFT Inc.,7374,Services-Computer Processing & Data Preparation
+420,0001528396,GWRE,"Guidewire Software, Inc.",7372,Services-Prepackaged Software
+421,0001529113,XTIA,"XTI Aerospace, Inc.",7371,Services-Computer Programming Services
+422,0001529192,VIPS,Vipshop Holdings Ltd,5961,Retail-Catalog & Mail-Order Houses
+423,0001529274,ALKT,"ALKAMI TECHNOLOGY, INC.",7372,Services-Prepackaged Software
+424,0001530238,JOYY,JOYY Inc.,7374,Services-Computer Processing & Data Preparation
+425,0001530979,HNST,"Honest Company, Inc.",5961,Retail-Catalog & Mail-Order Houses
+426,0001534154,AUID,authID Inc.,7372,Services-Prepackaged Software
+427,0001535527,CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software
+428,0001544522,FRSH,Freshworks Inc.,7372,Services-Prepackaged Software
+429,0001546296,IPDN,"Professional Diversity Network, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+430,0001546853,SKKY,"Skkynet Cloud Systems, Inc.",7372,Services-Prepackaged Software
+431,0001549346,SSTK,"Shutterstock, Inc.",7374,Services-Computer Processing & Data Preparation
+432,0001552670,TAOP,Taoping Inc.,7372,Services-Prepackaged Software
+433,0001554818,AUUD,AUDDIA INC.,7374,Services-Computer Processing & Data Preparation
+434,0001557798,CIIT,"Tianci International, Inc.",3576,Computer Communications Equipment
+435,0001557860,GLOB,Globant S.A.,7374,Services-Computer Processing & Data Preparation
+436,0001558924,PKKFF,Tenet Fintech Group Inc.,7372,Services-Prepackaged Software
+437,0001559865,EVTC,"EVERTEC, Inc.",7374,Services-Computer Processing & Data Preparation
+438,0001560327,RPD,"Rapid7, Inc.",7372,Services-Prepackaged Software
+439,0001561550,DDOG,"Datadog, Inc.",7372,Services-Prepackaged Software
+440,0001562088,DUOL,"Duolingo, Inc.",7372,Services-Prepackaged Software
+441,0001564408,SNAP,Snap Inc,7370,"Services-Computer Programming, Data Processing, Etc."
+442,0001565228,VISL,"Vislink Technologies, Inc.",3669,"Communications Equipment, NEC"
+443,0001565687,INTA,"Intapp, Inc.",7372,Services-Prepackaged Software
+444,0001568100,PD,"PagerDuty, Inc.",7372,Services-Prepackaged Software
+445,0001568385,BMTM,"Bright Mountain Media, Inc.",7371,Services-Computer Programming Services
+446,0001568969,APYP,"APPYEA, INC",7371,Services-Computer Programming Services
+447,0001569345,CXM,"Sprinklr, Inc.",7372,Services-Prepackaged Software
+448,0001571123,SAIC,Science Applications International Corp,7373,Services-Computer Integrated Systems Design
+449,0001571996,DELL,Dell Technologies Inc.,3571,Electronic Computers
+450,0001575793,WATT,Energous Corp,3663,Radio & Tv Broadcasting & Communications Equipment
+451,0001576789,WIX,Wix.com Ltd.,7370,"Services-Computer Programming, Data Processing, Etc."
+452,0001576942,SFIX,"Stitch Fix, Inc.",5961,Retail-Catalog & Mail-Order Houses
+453,0001577351,XYLB,"XY Labs, Inc.",3669,"Communications Equipment, NEC"
+454,0001577445,ODYS,Odysight.ai Inc.,7373,Services-Computer Integrated Systems Design
+455,0001577526,AI,"C3.ai, Inc.",7372,Services-Prepackaged Software
+456,0001579878,FIG,"Figma, Inc.",7372,Services-Prepackaged Software
+457,0001580808,ATEN,"A10 Networks, Inc.",3576,Computer Communications Equipment
+458,0001581760,LIF,"Life360, Inc.",7374,Services-Computer Processing & Data Preparation
+459,0001582961,DOCN,"DigitalOcean Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+460,0001582982,CCLD,"CareCloud, Inc.",7372,Services-Prepackaged Software
+461,0001583708,S,"SentinelOne, Inc.",7372,Services-Prepackaged Software
+462,0001584480,GTIC,"Greentech Innovations, Inc.",7372,Services-Prepackaged Software
+463,0001585521,ZM,"Zoom Communications, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+464,0001590955,PAYC,"Paycom Software, Inc.",7372,Services-Prepackaged Software
+465,0001591698,PCTY,Paylocity Holding Corp,7372,Services-Prepackaged Software
+466,0001591913,IPSI,"Innovative Payment Solutions, Inc.",5961,Retail-Catalog & Mail-Order Houses
+467,0001593184,BRGX,"BIOREGENX, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+468,0001593549,NUGN,"Livento Group, Inc.",7372,Services-Prepackaged Software
+469,0001594805,SHOP,SHOPIFY INC.,7372,Services-Prepackaged Software
+470,0001595761,WB,WEIBO Corp,7370,"Services-Computer Programming, Data Processing, Etc."
+471,0001595974,MGNI,"MAGNITE, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+472,0001596532,ANET,"Arista Networks, Inc.",3576,Computer Communications Equipment
+473,0001596961,RDNW,"RideNow Group, Inc.",7371,Services-Computer Programming Services
+474,0001597033,SABR,Sabre Corp,7370,"Services-Computer Programming, Data Processing, Etc."
+475,0001597835,CMCM,Cheetah Mobile Inc.,7372,Services-Prepackaged Software
+476,0001598110,CYBR,CyberArk Software Ltd.,7372,Services-Prepackaged Software
+477,0001600641,DIBS,"1stdibs.com, Inc.",5961,Retail-Catalog & Mail-Order Houses
+478,0001600983,KSCP,"Knightscope, Inc.",3669,"Communications Equipment, NEC"
+479,0001602409,FNGR,"FingerMotion, Inc.",7372,Services-Prepackaged Software
+480,0001603015,VIA,"Via Transportation, Inc.",7372,Services-Prepackaged Software
+481,0001603652,ULY,Urgent.ly Inc.,7374,Services-Computer Processing & Data Preparation
+482,0001604778,QRVO,"Qorvo, Inc.",3674,Semiconductors & Related Devices
+483,0001606757,KE,"Kimball Electronics, Inc.",3672,Printed Circuit Boards
+484,0001609151,WEAV,"Weave Communications, Inc.",7372,Services-Prepackaged Software
+485,0001609711,GDDY,GoDaddy Inc.,7373,Services-Computer Integrated Systems Design
+486,0001610601,MOMO,Hello Group Inc.,7372,Services-Prepackaged Software
+487,0001611052,PCOR,"PROCORE TECHNOLOGIES, INC.",7372,Services-Prepackaged Software
+488,0001614178,YEXT,"Yext, Inc.",7374,Services-Computer Processing & Data Preparation
+489,0001615063,INSE,"Inspired Entertainment, Inc.",7372,Services-Prepackaged Software
+490,0001615165,VERI,"Veritone, Inc.",7374,Services-Computer Processing & Data Preparation
+491,0001616156,WEWA,"WEWARDS, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+492,0001616533,PENG,"Penguin Solutions, Inc.",3674,Semiconductors & Related Devices
+493,0001616707,W,Wayfair Inc.,5961,Retail-Catalog & Mail-Order Houses
+494,0001617553,ZIP,"ZIPRECRUITER, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+495,0001618732,NTNX,"Nutanix, Inc.",7372,Services-Prepackaged Software
+496,0001619227,CLOW,"Cloudweb, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+497,0001621672,SLE,"Super League Enterprise, Inc.",7373,Services-Computer Integrated Systems Design
+498,0001625278,NRDS,"NERDWALLET, INC.",7374,Services-Computer Processing & Data Preparation
+499,0001625414,BZUN,Baozun Inc.,5961,Retail-Catalog & Mail-Order Houses
+500,0001625641,LAW,"CS Disco, Inc.",7372,Services-Prepackaged Software
+501,0001626450,CMRC,"Commerce.com, Inc.",7372,Services-Prepackaged Software
+502,0001627475,UPWK,"UPWORK, INC",7374,Services-Computer Processing & Data Preparation
+503,0001630212,ALBT,Avalon GloboCare Corp.,7371,Services-Computer Programming Services
+504,0001631282,DTSS,DATASEA INC.,7372,Services-Prepackaged Software
+505,0001633369,CAST,"FreeCast, Inc.",7374,Services-Computer Processing & Data Preparation
+506,0001633978,LITE,Lumentum Holdings Inc.,3669,"Communications Equipment, NEC"
+507,0001635327,FLUT,Flutter Entertainment plc,7370,"Services-Computer Programming, Data Processing, Etc."
+508,0001636422,HCAT,"Health Catalyst, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+509,0001637147,ZSPC,"zSpace, Inc.",7372,Services-Prepackaged Software
+510,0001638826,TTAN,"ServiceTitan, Inc.",7372,Services-Prepackaged Software
+511,0001639723,NAVN,"Navan, Inc.",7372,Services-Prepackaged Software
+512,0001640147,SNOW,Snowflake Inc.,7372,Services-Prepackaged Software
+513,0001640428,EVER,"EverQuote, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+514,0001642896,IOT,Samsara Inc.,7373,Services-Computer Integrated Systems Design
+515,0001643303,NNDM,Nano Dimension Ltd.,3672,Printed Circuit Boards
+516,0001645155,WBSR,Webstar Technology Group Inc.,7372,Services-Prepackaged Software
+517,0001645590,HPE,Hewlett Packard Enterprise Co,3570,Computer & office Equipment
+518,0001646188,ONDS,Ondas Holdings Inc.,3663,Radio & Tv Broadcasting & Communications Equipment
+519,0001647822,SVMB,"Jingbo Technology, Inc.",7372,Services-Prepackaged Software
+520,0001650164,TOST,"Toast, Inc.",7374,Services-Computer Processing & Data Preparation
+521,0001650372,TEAM,Atlassian Corp,7372,Services-Prepackaged Software
+522,0001650575,BRQSF,"Borqs Technologies, Inc.",7373,Services-Computer Integrated Systems Design
+523,0001651562,COUR,"Coursera, Inc.",7372,Services-Prepackaged Software
+524,0001651992,ASFT,"Appsoft Technologies, Inc.",7372,Services-Prepackaged Software
+525,0001652044,GOOGL,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+526,0001652535,ICHR,"ICHOR HOLDINGS, LTD.",3674,Semiconductors & Related Devices
+527,0001653482,GTLB,Gitlab Inc.,7372,Services-Prepackaged Software
+528,0001653606,EHVVF,"Ehave, Inc.",7371,Services-Computer Programming Services
+529,0001656081,DAVA,Endava plc,7371,Services-Computer Programming Services
+530,0001660134,OKTA,"Okta, Inc.",7372,Services-Prepackaged Software
+531,0001660280,TENB,"Tenable Holdings, Inc.",7372,Services-Prepackaged Software
+532,0001662684,KULR,"KULR Technology Group, Inc.",3670,Electronic Components & Accessories
+533,0001664703,BE,Bloom Energy Corp,3620,Electrical Industrial Apparatus
+534,0001665300,PHUN,"Phunware, Inc.",7374,Services-Computer Processing & Data Preparation
+535,0001666071,CDLX,"Cardlytics, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+536,0001666134,BL,"BLACKLINE, INC.",7372,Services-Prepackaged Software
+537,0001667011,AIP,"Arteris, Inc.",3674,Semiconductors & Related Devices
+538,0001667313,ZDGE,"Zedge, Inc.",7372,Services-Prepackaged Software
+539,0001671933,TTD,"Trade Desk, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+540,0001673481,SEGG,Lottery.com Inc.,7372,Services-Prepackaged Software
+541,0001673743,HNGE,"Hinge Health, Inc.",7374,Services-Computer Processing & Data Preparation
+542,0001674101,VRT,Vertiv Holdings Co,3679,"Electronic Components, NEC"
+543,0001674227,WORX,SCWorx Corp.,7374,Services-Computer Processing & Data Preparation
+544,0001674440,YYAI,AIRWA INC.,7370,"Services-Computer Programming, Data Processing, Etc."
+545,0001676238,BRZE,"Braze, Inc.",7372,Services-Prepackaged Software
+546,0001677897,UPYY,UPAY,7372,Services-Prepackaged Software
+547,0001678105,CAHO,Caro Holdings Inc.,5961,Retail-Catalog & Mail-Order Houses
+548,0001681622,VREX,Varex Imaging Corp,3679,"Electronic Components, NEC"
+549,0001683606,CARS,Cars.com Inc.,7374,Services-Computer Processing & Data Preparation
+550,0001683825,TRVG,trivago N.V.,7374,Services-Computer Processing & Data Preparation
+551,0001688126,CRCW,Crypto Co,7374,Services-Computer Processing & Data Preparation
+552,0001688568,DXC,DXC Technology Co,7374,Services-Computer Processing & Data Preparation
+553,0001691221,FRSX,Foresight Autonomous Holdings Ltd.,7372,Services-Prepackaged Software
+554,0001697851,REKR,"Rekor Systems, Inc.",3669,"Communications Equipment, NEC"
+555,0001699838,CFLT,"Confluent, Inc.",7372,Services-Prepackaged Software
+556,0001701963,VS,Versus Systems Inc.,7374,Services-Computer Processing & Data Preparation
+557,0001705402,AGMH,"AGM GROUP HOLDINGS, INC.",7371,Services-Computer Programming Services
+558,0001707753,ESTC,Elastic N.V.,7372,Services-Prepackaged Software
+559,0001708055,RBBN,Ribbon Communications Inc.,7373,Services-Computer Integrated Systems Design
+560,0001708441,MYND,"Mynd.ai, Inc.",3577,"Computer Peripheral Equipment, NEC"
+561,0001709048,GFS,GLOBALFOUNDRIES Inc.,3674,Semiconductors & Related Devices
+562,0001709628,CSAI,"CLOUDASTRUCTURE, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+563,0001710495,PNXP,PINEAPPLE EXPRESS CANNABIS Co,7372,Services-Prepackaged Software
+564,0001712807,PAGS,PagSeguro Digital Ltd.,7374,Services-Computer Processing & Data Preparation
+565,0001713445,RDDT,"Reddit, Inc.",7374,Services-Computer Processing & Data Preparation
+566,0001713683,ZS,"Zscaler, Inc.",7371,Services-Computer Programming Services
+567,0001713923,AIJTY,Jianpu Technology Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+568,0001715433,LCHD,Leader Capital Holdings Corp.,7371,Services-Computer Programming Services
+569,0001716338,PT,Pintec Technology Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+570,0001717115,TEM,"Tempus AI, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+571,0001718939,IDAI,T Stamp Inc,7372,Services-Prepackaged Software
+572,0001720116,RDVT,"Red Violet, Inc.",7372,Services-Prepackaged Software
+573,0001720420,IBEX,IBEX Ltd,7374,Services-Computer Processing & Data Preparation
+574,0001720446,ZEPP,Zepp Health Corp,3571,Electronic Computers
+575,0001721947,JAMF,Jamf Holding Corp.,7372,Services-Prepackaged Software
+576,0001722731,FDCT,"FDCTECH, INC.",7372,Services-Prepackaged Software
+577,0001723690,BILI,Bilibili Inc.,7374,Services-Computer Processing & Data Preparation
+578,0001724542,CLPS,CLPS Inc,7372,Services-Prepackaged Software
+579,0001725057,DAY,"Dayforce, Inc.",7372,Services-Prepackaged Software
+580,0001725123,CANG,Cango Inc.,7372,Services-Prepackaged Software
+581,0001725332,ALAR,Alarum Technologies Ltd.,7372,Services-Prepackaged Software
+582,0001728190,HUYA,HUYA Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+583,0001730168,AVGO,Broadcom Inc.,3674,Semiconductors & Related Devices
+584,0001730869,EBZT,"Everything Blockchain, Inc.",7372,Services-Prepackaged Software
+585,0001733298,QTTOY,Qutoutiao Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+586,0001734107,SOHU,Sohu.com Ltd,7374,Services-Computer Processing & Data Preparation
+587,0001734262,CTKYY,CooTek(Cayman)Inc.,7374,Services-Computer Processing & Data Preparation
+588,0001734520,ALYAF,Alithya Group inc,7370,"Services-Computer Programming, Data Processing, Etc."
+589,0001734722,PATH,"UiPath, Inc.",7372,Services-Prepackaged Software
+590,0001736297,ALAB,"Astera Labs, Inc.",3674,Semiconductors & Related Devices
+591,0001737270,NEXCF,Nextech3D.AI Corp.,7371,Services-Computer Programming Services
+592,0001737339,JG,Aurora Mobile Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+593,0001737450,OPRA,Opera Ltd,7372,Services-Prepackaged Software
+594,0001738177,CMBM,Cambium Networks Corp,3663,Radio & Tv Broadcasting & Communications Equipment
+595,0001738699,WKEY,Wisekey International Holding S.A.,7374,Services-Computer Processing & Data Preparation
+596,0001738758,CHR,"Cheer Holding, Inc.",7374,Services-Computer Processing & Data Preparation
+597,0001740797,AVAI,AVANT TECHNOLOGIES INC.,7374,Services-Computer Processing & Data Preparation
+598,0001742341,HKIT,HiTek Global Inc.,7372,Services-Prepackaged Software
+599,0001742518,MTC,"MMTec, Inc.",7372,Services-Prepackaged Software
+600,0001743725,GDYN,"GRID DYNAMICS HOLDINGS, INC.",7372,Services-Prepackaged Software
+601,0001743759,CRSR,"Corsair Gaming, Inc.",3577,"Computer Peripheral Equipment, NEC"
+602,0001745431,STNE,StoneCo Ltd.,7374,Services-Computer Processing & Data Preparation
+603,0001746618,RVLV,"Revolve Group, Inc.",5961,Retail-Catalog & Mail-Order Houses
+604,0001751008,APP,AppLovin Corp,7370,"Services-Computer Programming, Data Processing, Etc."
+605,0001751876,PAVS,Paranovus Entertainment Technology Ltd.,7374,Services-Computer Processing & Data Preparation
+606,0001753368,SANG,Sangoma Technologies Corp,7370,"Services-Computer Programming, Data Processing, Etc."
+607,0001753391,QSJC,"TANCHENG GROUP CO., LTD.",7370,"Services-Computer Programming, Data Processing, Etc."
+608,0001753539,BKSY,BlackSky Technology Inc.,3663,Radio & Tv Broadcasting & Communications Equipment
+609,0001753673,SJ,Scienjoy Holding Corp,7374,Services-Computer Processing & Data Preparation
+610,0001754323,XTKG,"X3 Holdings Co., Ltd.",7371,Services-Computer Programming Services
+611,0001755101,ALDS,APPlife Digital Solutions Inc,7374,Services-Computer Processing & Data Preparation
+612,0001756708,JMIA,Jumia Technologies AG,5961,Retail-Catalog & Mail-Order Houses
+613,0001758009,QUBT,Quantum Computing Inc.,7372,Services-Prepackaged Software
+614,0001758530,SY,So-Young International Inc.,7374,Services-Computer Processing & Data Preparation
+615,0001758699,TRSO,TRANSUITE.ORG INC.,7370,"Services-Computer Programming, Data Processing, Etc."
+616,0001760233,GIFT,"GIFTIFY, INC.",5961,Retail-Catalog & Mail-Order Houses
+617,0001761696,CRKN,Crown Electrokinetics Corp.,3679,"Electronic Components, NEC"
+618,0001761911,NOWG,Nowigence Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+619,0001762417,DOYU,DouYu International Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+620,0001764046,CLVT,CLARIVATE PLC,7374,Services-Computer Processing & Data Preparation
+621,0001765048,GCGJ,GUOCHUN INTERNATIONAL INC.,7370,"Services-Computer Programming, Data Processing, Etc."
+622,0001766502,CHWY,"Chewy, Inc.",5961,Retail-Catalog & Mail-Order Houses
+623,0001768267,CRNC,Cerence Inc.,7372,Services-Prepackaged Software
+624,0001769628,CRWV,"CoreWeave, Inc.",7372,Services-Prepackaged Software
+625,0001770088,WIMI,WiMi Hologram Cloud Inc.,7372,Services-Prepackaged Software
+626,0001770450,XRX,Xerox Holdings Corp,3577,"Computer Peripheral Equipment, NEC"
+627,0001773383,DT,"Dynatrace, Inc.",7372,Services-Prepackaged Software
+628,0001774170,AIOT,"Powerfleet, Inc.",3669,"Communications Equipment, NEC"
+629,0001774675,SKIL,Skillsoft Corp.,7372,Services-Prepackaged Software
+630,0001777765,VQSSF,VIQ Solutions Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+631,0001777921,AVPT,"AvePoint, Inc.",7372,Services-Prepackaged Software
+632,0001779474,MAPS,"WM TECHNOLOGY, INC.",7372,Services-Prepackaged Software
+633,0001780201,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",5961,Retail-Catalog & Mail-Order Houses
+634,0001780531,OCFT,"ONECONNECT FINANCIAL TECHNOLOGY CO., LTD.",7370,"Services-Computer Programming, Data Processing, Etc."
+635,0001781629,ANKM,"Ankam, Inc.",7371,Services-Computer Programming Services
+636,0001783407,SOGP,Sound Group Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+637,0001784440,BHIC,"BioScience Health Innovations, Inc.",7374,Services-Computer Processing & Data Preparation
+638,0001784535,PRCH,"Porch Group, Inc.",7372,Services-Prepackaged Software
+639,0001784970,NXTT,Next Technology Holding Inc.,7374,Services-Computer Processing & Data Preparation
+640,0001786352,BILL,"BILL Holdings, Inc.",7372,Services-Prepackaged Software
+641,0001788257,BWMX,"BETTERWARE DE MEXICO, S.A.P.I. DE C.V",5961,Retail-Catalog & Mail-Order Houses
+642,0001788999,XPER,Xperi Inc.,7372,Services-Prepackaged Software
+643,0001793663,VTEX,VTEX,7372,Services-Prepackaged Software
+644,0001794350,YALA,Yalla Group Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+645,0001794515,GTM,ZoomInfo Technologies Inc.,7372,Services-Prepackaged Software
+646,0001795589,KC,Kingsoft Cloud Holdings Ltd,7372,Services-Prepackaged Software
+647,0001796898,MAXN,"Maxeon Solar Technologies, Ltd.",3674,Semiconductors & Related Devices
+648,0001799567,DDI,"DoubleDown Interactive Co., Ltd.",7374,Services-Computer Processing & Data Preparation
+649,0001800227,IAC,IAC Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+650,0001800392,MLGO,MicroAlgo Inc.,7371,Services-Computer Programming Services
+651,0001800667,FROG,JFrog Ltd,7372,Services-Prepackaged Software
+652,0001801602,SBIG,"SpringBig Holdings, Inc.",7371,Services-Computer Programming Services
+653,0001801661,SKLZ,Skillz Inc.,7374,Services-Computer Processing & Data Preparation
+654,0001802450,MSPR,"MSP Recovery, Inc.",7374,Services-Computer Processing & Data Preparation
+655,0001802883,API,"Agora, Inc.",7372,Services-Prepackaged Software
+656,0001803407,OST,"Ostin Technology Group Co., Ltd.",3679,"Electronic Components, NEC"
+657,0001804583,RAASY,Cloopen Group Holding Ltd,7372,Services-Prepackaged Software
+658,0001805385,EVLV,"Evolv Technologies Holdings, Inc.",3577,"Computer Peripheral Equipment, NEC"
+659,0001805651,MKTW,"MARKETWISE, INC.",7372,Services-Prepackaged Software
+660,0001805833,SST,"System1, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+661,0001806837,VERX,"Vertex, Inc.",7372,Services-Prepackaged Software
+662,0001807166,AMST,Amesite Inc.,7372,Services-Prepackaged Software
+663,0001807794,CRDO,Credo Technology Group Holding Ltd,3674,Semiconductors & Related Devices
+664,0001809519,GDRX,"GoodRx Holdings, Inc.",7374,Services-Computer Processing & Data Preparation
+665,0001810019,RXT,"Rackspace Technology, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+666,0001810806,U,Unity Software Inc.,7372,Services-Prepackaged Software
+667,0001811935,PTRN,Pattern Group Inc.,5961,Retail-Catalog & Mail-Order Houses
+668,0001811999,FMHS,"FARMHOUSE, INC. /NV",7370,"Services-Computer Programming, Data Processing, Etc."
+669,0001815566,IFBD,"Infobird Co., Ltd",7372,Services-Prepackaged Software
+670,0001815632,TGCB,"Tego Cyber, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+671,0001816319,LYTHF,Lytus Technologies Holdings PTV. Ltd.,7374,Services-Computer Processing & Data Preparation
+672,0001816723,GRFXF,Graphex Group Ltd,3620,Electrical Industrial Apparatus
+673,0001817760,SMTK,"SmartKem, Inc.",3674,Semiconductors & Related Devices
+674,0001818201,CCC,CCC Intelligent Solutions Holdings Inc.,7372,Services-Prepackaged Software
+675,0001819794,HTOO,Fusion Fuel Green PLC,3620,Electrical Industrial Apparatus
+676,0001819928,DV,"DoubleVerify Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+677,0001819974,SKYT,"SkyWater Technology, Inc",3674,Semiconductors & Related Devices
+678,0001820144,GRND,Grindr Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+679,0001820875,CXAI,CXApp Inc.,7372,Services-Prepackaged Software
+680,0001821175,MSGM,Motorsport Games Inc.,7372,Services-Prepackaged Software
+681,0001821769,NVTS,Navitas Semiconductor Corp,3674,Semiconductors & Related Devices
+682,0001821866,BTQ,BTQ Technologies Corp.,7370,"Services-Computer Programming, Data Processing, Etc."
+683,0001823306,LSPD,Lightspeed Commerce Inc.,7372,Services-Prepackaged Software
+684,0001823593,TSPH,TuSimple Holdings Inc.,7373,Services-Computer Integrated Systems Design
+685,0001823878,MYPS,"PLAYSTUDIOS, Inc.",7372,Services-Prepackaged Software
+686,0001824814,CGNT,Cognyte Software Ltd.,7372,Services-Prepackaged Software
+687,0001824920,IONQ,"IonQ, Inc.",7373,Services-Computer Integrated Systems Design
+688,0001825155,TIXT,TELUS International (Cda) Inc.,7374,Services-Computer Processing & Data Preparation
+689,0001825452,ONFO,"Onfolio Holdings, Inc",7374,Services-Computer Processing & Data Preparation
+690,0001825875,RAYA,Erayak Power Solution Group Inc.,3621,Motors & Generators
+691,0001826011,BNZI,"Banzai International, Inc.",7372,Services-Prepackaged Software
+692,0001826660,WETH,Wetouch Technology Inc.,3577,"Computer Peripheral Equipment, NEC"
+693,0001826681,PDYN,Palladyne AI Corp.,7372,Services-Prepackaged Software
+694,0001827090,CERT,"Certara, Inc.",7372,Services-Prepackaged Software
+695,0001828016,PLTK,Playtika Holding Corp.,7374,Services-Computer Processing & Data Preparation
+696,0001828102,KARO,Karooooo Ltd.,7372,Services-Prepackaged Software
+697,0001828108,AUR,"Aurora Innovation, Inc.",7373,Services-Computer Integrated Systems Design
+698,0001828161,FTCI,"FTC Solar, Inc.",3674,Semiconductors & Related Devices
+699,0001828791,DSP,Viant Technology Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+700,0001828805,ALMU,"Aeluma, Inc.",3674,Semiconductors & Related Devices
+701,0001829118,TUYA,Tuya Inc.,7372,Services-Prepackaged Software
+702,0001829280,FORA,Forian Inc.,7374,Services-Computer Processing & Data Preparation
+703,0001829864,TASK,"TaskUs, Inc.",7374,Services-Computer Processing & Data Preparation
+704,0001829959,DCBO,Docebo Inc.,7372,Services-Prepackaged Software
+705,0001830043,BMBL,Bumble Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+706,0001830081,RUM,Rumble Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+707,0001831096,GEG,"Great Elm Group, Inc.",7372,Services-Prepackaged Software
+708,0001831651,SHLS,"Shoals Technologies Group, Inc.",3674,Semiconductors & Related Devices
+709,0001831840,SEMR,"SEMrush Holdings, Inc.",7372,Services-Prepackaged Software
+710,0001831907,LUXE,LuxExperience B.V.,5961,Retail-Catalog & Mail-Order Houses
+711,0001832487,GUER,"Guerrilla RF, Inc.",3674,Semiconductors & Related Devices
+712,0001834488,NABL,"N-able, Inc.",7372,Services-Prepackaged Software
+713,0001834584,CPNG,"Coupang, Inc.",5961,Retail-Catalog & Mail-Order Houses
+714,0001835632,MRVL,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices
+715,0001835830,KVYO,"Klaviyo, Inc.",7372,Services-Prepackaged Software
+716,0001835963,GLBE,Global-E Online Ltd.,7372,Services-Prepackaged Software
+717,0001836470,SRAD,Sportradar Group AG,7370,"Services-Computer Programming, Data Processing, Etc."
+718,0001836833,PL,Planet Labs PBC,3663,Radio & Tv Broadcasting & Communications Equipment
+719,0001836934,ZENV,Zenvia Inc.,7372,Services-Prepackaged Software
+720,0001836981,BBAI,"BigBear.ai Holdings, Inc.",7372,Services-Prepackaged Software
+721,0001837014,SMRT,"SmartRent, Inc.",7373,Services-Computer Integrated Systems Design
+722,0001837686,VMEO,"Vimeo, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+723,0001838163,BNAI,Brand Engagement Network Inc.,7373,Services-Computer Integrated Systems Design
+724,0001838359,RGTI,"Rigetti Computing, Inc.",7371,Services-Computer Programming Services
+725,0001838413,YMM,Full Truck Alliance Co. Ltd.,7372,Services-Prepackaged Software
+726,0001839285,HCTI,"Healthcare Triangle, Inc.",7373,Services-Computer Integrated Systems Design
+727,0001840317,VEEA,VEEA INC.,7373,Services-Computer Integrated Systems Design
+728,0001840416,SSM,Sono Group N.V.,3674,Semiconductors & Related Devices
+729,0001840502,TBLA,Taboola.com Ltd.,7370,"Services-Computer Programming, Data Processing, Etc."
+730,0001840706,SOPH,SOPHiA GENETICS SA,7374,Services-Computer Processing & Data Preparation
+731,0001840856,SOUN,"SOUNDHOUND AI, INC.",7372,Services-Prepackaged Software
+732,0001841209,HOLO,MicroCloud Hologram Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+733,0001841761,GROV,"Grove Collaborative Holdings, Inc.",5961,Retail-Catalog & Mail-Order Houses
+734,0001841925,INDI,"indie Semiconductor, Inc.",3674,Semiconductors & Related Devices
+735,0001842566,AISP,"Airship AI Holdings, Inc.",7372,Services-Prepackaged Software
+736,0001842718,IAS,INTEGRAL AD SCIENCE HOLDING CORP.,7370,"Services-Computer Programming, Data Processing, Etc."
+737,0001842731,SMWB,SIMILARWEB LTD.,7370,"Services-Computer Programming, Data Processing, Etc."
+738,0001842827,BZ,Kanzhun Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+739,0001845338,MNDY,monday.com Ltd.,7372,Services-Prepackaged Software
+740,0001845437,NPWR,NET Power Inc.,3620,Electrical Industrial Apparatus
+741,0001846069,NXDR,"Nextdoor Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+742,0001847806,GNS,Genius Group Ltd,7372,Services-Prepackaged Software
+743,0001848672,GDLG,Glidelogic Corp.,7371,Services-Computer Programming Services
+744,0001848739,GDEV,GDEV Inc.,7371,Services-Computer Programming Services
+745,0001849396,NEXN,Nexxen International Ltd.,7370,"Services-Computer Programming, Data Processing, Etc."
+746,0001849635,DJT,Trump Media & Technology Group Corp.,7370,"Services-Computer Programming, Data Processing, Etc."
+747,0001850235,HEPS,D-MARKET Electronic Services & Trading,5961,Retail-Catalog & Mail-Order Houses
+748,0001851003,ZETA,Zeta Global Holdings Corp.,7372,Services-Prepackaged Software
+749,0001851961,GCTS,"GCT Semiconductor Holding, Inc.",3674,Semiconductors & Related Devices
+750,0001853138,KDK,"Kodiak AI, Inc.",7373,Services-Computer Integrated Systems Design
+751,0001853145,EVCM,EverCommerce Inc.,7372,Services-Prepackaged Software
+752,0001853630,HMELF,Hold Me Ltd,7372,Services-Prepackaged Software
+753,0001853825,TZUP,THUMZUP MEDIA Corp,7374,Services-Computer Processing & Data Preparation
+754,0001854445,VRAR,"Glimpse Group, Inc.",7371,Services-Computer Programming Services
+755,0001854526,BRQL,BrooQLy Inc.,7374,Services-Computer Processing & Data Preparation
+756,0001854545,DDL,Dingdong (Cayman) Ltd,5961,Retail-Catalog & Mail-Order Houses
+757,0001854587,CLBT,Cellebrite DI Ltd.,7372,Services-Prepackaged Software
+758,0001855447,TYGO,"TIGO ENERGY, INC.",3674,Semiconductors & Related Devices
+759,0001855467,MOBX,"MOBIX LABS, INC",3674,Semiconductors & Related Devices
+760,0001855747,BLND,"Blend Labs, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+761,0001856314,YOU,"Clear Secure, Inc.",7372,Services-Prepackaged Software
+762,0001857816,GCT,GigaCloud Technology Inc,5961,Retail-Catalog & Mail-Order Houses
+763,0001858007,GDST,Goldenstone Acquisition Ltd.,3620,Electrical Industrial Apparatus
+764,0001859690,ARQQ,Arqit Quantum Inc.,7372,Services-Prepackaged Software
+765,0001861233,ILLMF,illumin Holdings Inc.,7374,Services-Computer Processing & Data Preparation
+766,0001861795,DH,Definitive Healthcare Corp.,7372,Services-Prepackaged Software
+767,0001861841,ARBE,Arbe Robotics Ltd.,7373,Services-Computer Integrated Systems Design
+768,0001861974,ECX,ECARX Holdings Inc.,7373,Services-Computer Integrated Systems Design
+769,0001863006,VLN,Valens Semiconductor Ltd.,3674,Semiconductors & Related Devices
+770,0001865107,AKA,A.K.A. BRANDS HOLDING CORP.,5961,Retail-Catalog & Mail-Order Houses
+771,0001865111,ALSAF,Alpha Star Acquisition Corp,7372,Services-Prepackaged Software
+772,0001866368,CWAN,"Clearwater Analytics Holdings, Inc.",7372,Services-Prepackaged Software
+773,0001866633,CCSI,"Consensus Cloud Solutions, Inc.",7372,Services-Prepackaged Software
+774,0001866692,AMPL,"Amplitude, Inc.",7372,Services-Prepackaged Software
+775,0001867072,KD,"Kyndryl Holdings, Inc.",7373,Services-Computer Integrated Systems Design
+776,0001867729,WRD,WeRide Inc.,7373,Services-Computer Integrated Systems Design
+777,0001867834,BRAG,Bragg Gaming Group Inc.,7377,Services-Computer Rental & Leasing
+778,0001868079,PMEDF,Predictmedix Inc.,7372,Services-Prepackaged Software
+779,0001868395,YIBO,Planet Image International Ltd,3577,"Computer Peripheral Equipment, NEC"
+780,0001868419,CYCU,"Cycurion, Inc.",7371,Services-Computer Programming Services
+781,0001868778,INFA,Informatica Inc.,7372,Services-Prepackaged Software
+782,0001868995,CINT,CI&T Inc,7371,Services-Computer Programming Services
+783,0001871638,BZAI,"Blaize Holdings, Inc.",3674,Semiconductors & Related Devices
+784,0001872090,YXT,YXT.COM GROUP HOLDING Ltd,7372,Services-Prepackaged Software
+785,0001872302,,Nano Labs Ltd,3674,Semiconductors & Related Devices
+786,0001872964,MTEK,Maris Tech Ltd.,3669,"Communications Equipment, NEC"
+787,0001873454,RYET,Ruanyun Edai Technology Inc.,7372,Services-Prepackaged Software
+788,0001873722,BBLR,Bubblr Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+789,0001874097,CYN,Cyngn Inc.,7371,Services-Computer Programming Services
+790,0001874315,SATL,Satellogic Inc.,3663,Radio & Tv Broadcasting & Communications Equipment
+791,0001874875,HOUR,"Hour Loop, Inc",5961,Retail-Catalog & Mail-Order Houses
+792,0001875493,CSLMF,CSLM ACQUISITION CORP.,7373,Services-Computer Integrated Systems Design
+793,0001875547,LCFY,Locafy Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+794,0001877461,CBDW,1606 CORP.,7372,Services-Prepackaged Software
+795,0001879001,VRSSF,Verses AI Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+796,0001879373,GTIJF,GRAPHJET TECHNOLOGY,3620,Electrical Industrial Apparatus
+797,0001880343,AMZE,"AMAZE HOLDINGS, INC.",5961,Retail-Catalog & Mail-Order Houses
+798,0001880431,VHAI,Vocodia Holdings Corp,7371,Services-Computer Programming Services
+799,0001884164,KWIK,"KwikClick, Inc.",7374,Services-Computer Processing & Data Preparation
+800,0001885849,TFLM,Tofla Megaline Inc.,7372,Services-Prepackaged Software
+801,0001886894,SNAL,"Snail, Inc.",7372,Services-Prepackaged Software
+802,0001887673,WLDS,Wearable Devices Ltd.,3576,Computer Communications Equipment
+803,0001888151,FMTOF,Femto Technologies Inc.,7372,Services-Prepackaged Software
+804,0001888525,UBXG,U-BX Technology Ltd.,7370,"Services-Computer Programming, Data Processing, Etc."
+805,0001889823,DFSC,DEFSEC Technologies Inc.,7372,Services-Prepackaged Software
+806,0001889956,OS,"OneStream, Inc.",7372,Services-Prepackaged Software
+807,0001892322,HTCR,"HeartCore Enterprises, Inc.",7374,Services-Computer Processing & Data Preparation
+808,0001894693,SVRE,SaverOne 2014 Ltd.,7371,Services-Computer Programming Services
+809,0001895597,ICG,Intchains Group Ltd,3674,Semiconductors & Related Devices
+810,0001895618,GXAI,GAXOS.AI INC.,7372,Services-Prepackaged Software
+811,0001898474,SGN,"Signing Day Sports, Inc.",7374,Services-Computer Processing & Data Preparation
+812,0001899005,BMR,Beamr Imaging Ltd.,7372,Services-Prepackaged Software
+813,0001899830,PERF,Perfect Corp.,7372,Services-Prepackaged Software
+814,0001901279,NYAX,Nayax Ltd.,7372,Services-Prepackaged Software
+815,0001902314,MPTI,"M-tron Industries, Inc.",3679,"Electronic Components, NEC"
+816,0001902733,NCNO,"nCino, Inc.",7372,Services-Prepackaged Software
+817,0001903145,GRRR,Gorilla Technology Group Inc.,7372,Services-Prepackaged Software
+818,0001905660,HUBC,Hub Cyber Security Ltd.,3576,Computer Communications Equipment
+819,0001907982,QBTS,D-Wave Quantum Inc.,7374,Services-Computer Processing & Data Preparation
+820,0001908705,GLE,Global Engine Group Holding Ltd,7374,Services-Computer Processing & Data Preparation
+821,0001909770,KHOB,KHEOBA CORP.,7371,Services-Computer Programming Services
+822,0001910139,MBLY,Mobileye Global Inc.,7372,Services-Prepackaged Software
+823,0001911545,GITS,"Global Interactive Technologies, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+824,0001912884,RPGL,Republic Power Group Ltd,7372,Services-Prepackaged Software
+825,0001913749,GMM,Global Mofy AI Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+826,0001919847,SFWJ,"Software Effective Solutions, Corp.",7371,Services-Computer Programming Services
+827,0001920294,RZLV,REZOLVE AI PLC,7370,"Services-Computer Programming, Data Processing, Etc."
+828,0001924064,RLNDF,RoyaLand Co Ltd.,7372,Services-Prepackaged Software
+829,0001927578,NTCL,NetClass Technology Inc,7372,Services-Prepackaged Software
+830,0001930179,ARBB,ARB IOT Group Ltd,7373,Services-Computer Integrated Systems Design
+831,0001930419,ALRTF,ALR Technologies SG Ltd.,3669,"Communications Equipment, NEC"
+832,0001933359,NTCS,Natics Corp.,7374,Services-Computer Processing & Data Preparation
+833,0001935172,AIXI,Xiao-I Corp,7372,Services-Prepackaged Software
+834,0001940177,PODC,"PodcastOne, Inc.",7370,"Services-Computer Programming, Data Processing, Etc."
+835,0001940941,MFI,mF International Ltd,7371,Services-Computer Programming Services
+836,0001941189,TANAF,Tian'an Technology Group Ltd,3621,Motors & Generators
+837,0001943289,SVCO,"Silvaco Group, Inc.",7372,Services-Prepackaged Software
+838,0001943896,RBRK,"Rubrik, Inc.",7372,Services-Prepackaged Software
+839,0001944399,ELWS,"Earlyworks Co., Ltd.",7371,Services-Computer Programming Services
+840,0001946585,TKMO,"Tekumo, Inc.",7372,Services-Prepackaged Software
+841,0001951222,LAES,SEALSQ Corp,3674,Semiconductors & Related Devices
+842,0001954694,LGCL,Lucas GC Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+843,0001956955,UMAC,"Unusual Machines, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment
+844,0001964946,YAAS,Youxin Technology Ltd,7372,Services-Prepackaged Software
+845,0001965143,NVNI,Nvni Group Ltd,7372,Services-Prepackaged Software
+846,0001967397,LZMH,LZ Technology Holdings Ltd,7371,Services-Computer Programming Services
+847,0001967621,ATGL,Alpha Technology Group Ltd,7371,Services-Computer Programming Services
+848,0001969302,PONY,Pony AI Inc.,7373,Services-Computer Integrated Systems Design
+849,0001969401,LGCB,Linkage Global Inc,5961,Retail-Catalog & Mail-Order Houses
+850,0001970743,RMXI,"RMX INDUSTRIES, INC.",7370,"Services-Computer Programming, Data Processing, Etc."
+851,0001971975,ABXXF,Abaxx Technologies Inc.,7372,Services-Prepackaged Software
+852,0001972074,LNKS,Linkers Industries Ltd,3670,Electronic Components & Accessories
+853,0001973239,ARM,ARM HOLDINGS PLC /UK,3674,Semiconductors & Related Devices
+854,0001974138,NATL,NCR Atleos Corp,3578,Calculating & Accounting Machines (No Electronic Computers)
+855,0001976663,NXNT,"Nexscient, Inc.",7372,Services-Prepackaged Software
+856,0001976695,MNDR,Mobile-health Network Solutions,7372,Services-Prepackaged Software
+857,0001976923,YQAI,"YOUNEEQAI TECHNICAL SERVICES, INC.",7371,Services-Computer Programming Services
+858,0001977837,ALXY,MADE IN USA INC.,7374,Services-Computer Processing & Data Preparation
+859,0001979407,ORKT,ORANGEKLOUD TECHNOLOGY INC.,7372,Services-Prepackaged Software
+860,0001980295,IMAA,IMA Tech,7372,Services-Prepackaged Software
+861,0001981462,LDTCF,LeddarTech Holdings Inc.,7372,Services-Prepackaged Software
+862,0001981535,SBET,"SharpLink Gaming, Inc.",7372,Services-Prepackaged Software
+863,0001982448,BLIV,BeLive Holdings,7373,Services-Computer Integrated Systems Design
+864,0001982960,KNRX,KNOREX LTD.,7370,"Services-Computer Programming, Data Processing, Etc."
+865,0001983324,RMSG,Real Messenger Corp,7370,"Services-Computer Programming, Data Processing, Etc."
+866,0001983736,GOAI,Eva Live Inc,7370,"Services-Computer Programming, Data Processing, Etc."
+867,0001985554,LDXC,Londax Corp.,7371,Services-Computer Programming Services
+868,0001989788,GAFC,Guru App Factory Corp,7371,Services-Computer Programming Services
+869,0001990251,WCT,Wellchange Holdings Co Ltd,7372,Services-Prepackaged Software
+870,0001990354,WAY,Waystar Holding Corp.,7373,Services-Computer Integrated Systems Design
+871,0001990950,SELX,Semilux International Ltd.,3674,Semiconductors & Related Devices
+872,0001991605,YMT,Yimutian Inc.,7374,Services-Computer Processing & Data Preparation
+873,0001992092,ZDAN,Zerolimit Technology Holding Co. Ltd.,7372,Services-Prepackaged Software
+874,0001992243,TE,T1 Energy Inc.,3674,Semiconductors & Related Devices
+875,0001993097,MASK,3 E Network Technology Group Ltd,7371,Services-Computer Programming Services
+876,0001993400,FATN,Fatpipe Inc/UT,7372,Services-Prepackaged Software
+877,0001993727,SNT,Senstar Technologies Corp,3669,"Communications Equipment, NEC"
+878,0001994373,HNIT,Huineng Technology Corp,7374,Services-Computer Processing & Data Preparation
+879,0001997403,ZENA,"ZenaTech, Inc.",7372,Services-Prepackaged Software
+880,0001997698,PRGY,IGTA Merger Sub Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+881,0002000530,GMHS,Gamehaus Holdings Inc.,7374,Services-Computer Processing & Data Preparation
+882,0002000762,GMTH,GMTech Inc.,7371,Services-Computer Programming Services
+883,0002001699,HPAI,Helport AI Ltd,7372,Services-Prepackaged Software
+884,0002002045,GCL,GCL Global Holdings Ltd,7372,Services-Prepackaged Software
+885,0002004024,LHSW,Lianhe Sowell International Group Ltd,7372,Services-Prepackaged Software
+886,0002006291,CCIX,Churchill Capital Corp IX/Cayman,7373,Services-Computer Integrated Systems Design
+887,0002007599,LAWR,"Robot Consulting Co., Ltd.",7370,"Services-Computer Programming, Data Processing, Etc."
+888,0002007825,CCCX,Churchill Capital Corp X/Cayman,7374,Services-Computer Processing & Data Preparation
+889,0002010499,DGNX,Diginex Ltd,7374,Services-Computer Processing & Data Preparation
+890,0002010653,FVN,Future Vision II Acquisition Corp.,7373,Services-Computer Integrated Systems Design
+891,0002013807,FOXX,Foxx Development Holdings Inc.,3576,Computer Communications Equipment
+892,0002017541,GVSE,Gameverse Interactive Corp,7372,Services-Prepackaged Software
+893,0002023554,SNDK,Sandisk Corp,3572,Computer Storage Devices
+894,0002024114,TGHL,GrowHub Ltd,7374,Services-Computer Processing & Data Preparation
+895,0002025416,OWLS,OBOOK HOLDINGS INC.,7372,Services-Prepackaged Software
+896,0002026353,ATHR,"Aether Holdings, Inc.",7372,Services-Prepackaged Software
+897,0002028707,BACQ,INFLECTION POINT ACQUISITION CORP. IV,7373,Services-Computer Integrated Systems Design
+898,0002029138,SAGT,SAGTEC GLOBAL Ltd,7372,Services-Prepackaged Software
+899,0002030781,SAIL,"SailPoint, Inc.",7372,Services-Prepackaged Software
+900,0002033377,MGRT,Mega Fortune Co Ltd,7371,Services-Computer Programming Services
+901,0002033383,FUSE,Fusemachines Inc.,7373,Services-Computer Integrated Systems Design
+902,0002033770,DAIC,"CID Holdco, Inc.",7373,Services-Computer Integrated Systems Design
+903,0002034400,BTTC,Black Titan Corp,7371,Services-Computer Programming Services
+904,0002034520,GIBO,GIBO HOLDINGS Ltd,7372,Services-Prepackaged Software
+905,0002038439,VWAV,"VisionWave Holdings, Inc.",7372,Services-Prepackaged Software
+906,0002041829,CHOW,ChowChow Cloud International Holdings Ltd,7372,Services-Prepackaged Software
+907,0002047148,CTW,CTW Cayman,7374,Services-Computer Processing & Data Preparation
+908,0002047190,TCGL,TechCreate Group Ltd.,7374,Services-Computer Processing & Data Preparation
+909,0002049184,BAO,BAO Holding Ltd.,7370,"Services-Computer Programming, Data Processing, Etc."
+910,0002051146,SUWA,Sharewow Ltd,7374,Services-Computer Processing & Data Preparation
+911,0002053033,PLTS,Platinum Analytics Cayman Ltd,7372,Services-Prepackaged Software
+912,0002054696,NIQ,NIQ Global Intelligence plc,7370,"Services-Computer Programming, Data Processing, Etc."
+913,0002057757,DBIM,Dbim Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc."
+914,0002058007,ECST,ECST Holdings Ltd,7372,Services-Prepackaged Software
+915,0002058584,DKI,DarkIris Inc.,7372,Services-Prepackaged Software
+916,0002058873,Q,"Qnity Electronics, Inc.",3674,Semiconductors & Related Devices
+917,0002063196,NTSK,Netskope Inc,7372,Services-Prepackaged Software
+918,0002064307,LOGC,ContextLogic Holdings Inc.,5961,Retail-Catalog & Mail-Order Houses
+919,0002066522,GBH,Gigabit Inc.,7370,"Services-Computer Programming, Data Processing, Etc."
+920,0002066926,GDNT,Guident Corp.,7372,Services-Prepackaged Software
+921,0002067715,ALD,"Altech Digital Co., Ltd.",7371,Services-Computer Programming Services
+922,0002069785,GLOO,"Gloo Holdings, Inc.",7374,Services-Computer Processing & Data Preparation
+923,0002071502,KLK,Klook Technology Ltd,7372,Services-Prepackaged Software
+924,0002075036,EVON,EvoNexus Group LTD,7370,"Services-Computer Programming, Data Processing, Etc."
+925,0002076975,BRAI,Braiin Ltd,7374,Services-Computer Processing & Data Preparation
+926,0002080711,ZSSK,ZHONGSHANG TECHNOLOGY INC,7372,Services-Prepackaged Software
+927,0002084388,XYJG,XYJ TECHNOLOGY Corp,7374,Services-Computer Processing & Data Preparation

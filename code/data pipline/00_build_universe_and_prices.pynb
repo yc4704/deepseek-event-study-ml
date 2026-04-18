@@ -1,0 +1,540 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "db71459d-24cf-42e9-8ba2-e3ec18d25284",
+   "metadata": {},
+   "source": [
+    "# Data Pipeline: Build Universe and Historical Price Tables\n",
+    "\n",
+    "This notebook reconstructs the upstream data pipeline for the project.\n",
+    "\n",
+    "It performs three tasks:\n",
+    "\n",
+    "1. Build the base company universe from SEC `company_tickers.json`\n",
+    "2. Prepare the enriched company universe used in downstream analysis\n",
+    "3. Download historical market price data from Yahoo Finance and export structured tables\n",
+    "\n",
+    "These exported tables are then used in the clustering and Y-label construction modules."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "34105f43-fbe4-4c6d-9706-158e77ded41b",
+   "metadata": {},
+   "source": [
+    "## 1. Import libraries\n",
+    "\n",
+    "This cell imports the Python libraries used for JSON parsing, data cleaning, and market data downloading."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "3aae5467-0bbe-484b-8b6b-e291122883e0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "import math\n",
+    "import time\n",
+    "from datetime import datetime\n",
+    "\n",
+    "import pandas as pd\n",
+    "import yfinance as yf"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c0de1aec-bede-4119-a1a5-4e3510b9778a",
+   "metadata": {},
+   "source": [
+    "## 2. Load SEC company mapping\n",
+    "\n",
+    "This cell reads the SEC official company mapping file (`company_tickers.json`) and converts it into a tabular company universe with CIK, ticker, and company name."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "6bdba5d7-28f5-4586-a07b-7bcb86f2d6bc",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Base universe shape: (10215, 3)\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>ticker</th>\n",
+       "      <th>company_name</th>\n",
+       "      <th>CIK</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>NVDA</td>\n",
+       "      <td>NVIDIA CORP</td>\n",
+       "      <td>0001045810</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>AAPL</td>\n",
+       "      <td>Apple Inc.</td>\n",
+       "      <td>0000320193</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>MSFT</td>\n",
+       "      <td>MICROSOFT CORP</td>\n",
+       "      <td>0000789019</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>GOOGL</td>\n",
+       "      <td>Alphabet Inc.</td>\n",
+       "      <td>0001652044</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>AMZN</td>\n",
+       "      <td>AMAZON COM INC</td>\n",
+       "      <td>0001018724</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "  ticker    company_name         CIK\n",
+       "0   NVDA     NVIDIA CORP  0001045810\n",
+       "1   AAPL      Apple Inc.  0000320193\n",
+       "2   MSFT  MICROSOFT CORP  0000789019\n",
+       "3  GOOGL   Alphabet Inc.  0001652044\n",
+       "4   AMZN  AMAZON COM INC  0001018724"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "with open(\"company_tickers.json\", \"r\", encoding=\"utf-8\") as f:\n",
+    "    data = json.load(f)\n",
+    "\n",
+    "base_universe = pd.DataFrame.from_dict(data, orient=\"index\")\n",
+    "\n",
+    "base_universe = base_universe.rename(columns={\n",
+    "    \"cik_str\": \"CIK\",\n",
+    "    \"ticker\": \"ticker\",\n",
+    "    \"title\": \"company_name\"\n",
+    "})\n",
+    "\n",
+    "base_universe[\"ticker\"] = base_universe[\"ticker\"].astype(str).str.upper().str.strip()\n",
+    "base_universe[\"CIK\"] = base_universe[\"CIK\"].astype(str).str.zfill(10)\n",
+    "\n",
+    "base_universe = base_universe[[\"ticker\", \"company_name\", \"CIK\"]].drop_duplicates().reset_index(drop=True)\n",
+    "\n",
+    "print(\"Base universe shape:\", base_universe.shape)\n",
+    "display(base_universe.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a368f828-ef6b-4911-ad50-e2fcc4a27f5f",
+   "metadata": {},
+   "source": [
+    "## 3. Export the SEC base universe\n",
+    "\n",
+    "This cell saves the SEC-based company universe as an intermediate file for reproducibility."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "6fef9aea-991f-444e-a66e-9f1cb3b21b28",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Saved: base_universe_from_sec.csv\n"
+     ]
+    }
+   ],
+   "source": [
+    "base_universe.to_csv(\"base_universe_from_sec.csv\", index=False)\n",
+    "print(\"Saved: base_universe_from_sec.csv\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3cfc362f-d274-4669-b355-c3b660b874de",
+   "metadata": {},
+   "source": [
+    "## 4. Load the enriched company universe\n",
+    "\n",
+    "\n",
+    "The company universe used in this project is constructed based on the SEC official company mapping file `company_tickers.json`, which provides the CIK–ticker–company name relationship.\n",
+    "Building on this standardized base, we further use a preprocessed company universe `primary_ticker_only.csv` that has been cleaned and enriched with additional firm-level metadata such as SIC classification.\n",
+    "This dataset serves as the starting point for downstream data processing, including price data retrieval and event-based analysis.\n",
+    "Compared with the raw SEC mapping, this file already includes additional metadata such as SIC and SIC description."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a8d8bc25-a706-4ca8-9f39-aef35bfc75d5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(\"primary_ticker_only.csv\")\n",
+    "\n",
+    "print(\"primary_ticker_only.csv shape:\", df.shape)\n",
+    "print(df.columns.tolist())\n",
+    "display(df.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f4454ee5-2955-45d1-ae1d-c542173598af",
+   "metadata": {},
+   "source": [
+    "## 5. Standardize the company universe schema\n",
+    "\n",
+    "This cell renames columns into a consistent schema and creates a structured company table for downstream merging."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "134a74fc-a51f-4483-865e-78b87222c27d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_clean = df.rename(columns={\n",
+    "    \"ticker\": \"ticker\",\n",
+    "    \"title\": \"company_name\",\n",
+    "    \"CIK\": \"cik\",\n",
+    "    \"SIC\": \"sic\",\n",
+    "    \"SIC_description\": \"sic_description\"\n",
+    "}).copy()\n",
+    "\n",
+    "df_clean[\"ticker\"] = df_clean[\"ticker\"].astype(str).str.upper().str.strip()\n",
+    "df_clean[\"cik\"] = df_clean[\"cik\"].astype(str).str.zfill(10)\n",
+    "\n",
+    "df_clean = df_clean.reset_index(drop=True)\n",
+    "df_clean.insert(0, \"company_id\", df_clean.index + 1)\n",
+    "\n",
+    "company_out = df_clean[[\"company_id\", \"cik\", \"ticker\", \"company_name\", \"sic\", \"sic_description\"]].copy()\n",
+    "\n",
+    "print(\"Structured company table shape:\", company_out.shape)\n",
+    "display(company_out.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1b94b198-90c0-457a-80f6-6d8b1113198a",
+   "metadata": {},
+   "source": [
+    "## 6. Export the structured company table\n",
+    "\n",
+    "This cell exports the cleaned company table as `company.csv`, which will be used in later event-study and modeling notebooks."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e2a992b8-e811-448a-affc-9469d66792a2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "company_out.to_csv(\"company.csv\", header=False, index=False)\n",
+    "print(\"Saved: company.csv\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b3b5c586-4984-4ac5-8349-9d80f1c48f65",
+   "metadata": {},
+   "source": [
+    "## 7. Define the Yahoo Finance download window and a reusable price download function\n",
+    "\n",
+    "This cell sets the fixed historical window for downloading stock price data."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7f9815b7-375f-4faa-8cf4-62786715526b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "FIXED_START = \"2015-11-28\"\n",
+    "TODAY = datetime.today().strftime(\"%Y-%m-%d\")\n",
+    "\n",
+    "print(\"Download start:\", FIXED_START)\n",
+    "print(\"Download end:\", TODAY)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "edae176d-237f-4d2e-8e10-085833fb5c6f",
+   "metadata": {},
+   "source": [
+    "This cell defines a helper function that downloads historical OHLCV data for one ticker from Yahoo Finance and standardizes the output columns."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c3295db6-91d6-4895-8552-1a3d475b4d1d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def fetch_price_fixed_window(ticker: str):\n",
+    "    try:\n",
+    "        dfp = yf.download(\n",
+    "            ticker,\n",
+    "            start=FIXED_START,\n",
+    "            end=TODAY,\n",
+    "            auto_adjust=False,\n",
+    "            progress=False\n",
+    "        )\n",
+    "\n",
+    "        if dfp is None or dfp.empty:\n",
+    "            return None\n",
+    "\n",
+    "        if isinstance(dfp.columns, pd.MultiIndex):\n",
+    "            try:\n",
+    "                dfp = dfp.xs(ticker, axis=1, level=1)\n",
+    "            except Exception:\n",
+    "                dfp.columns = [c[0] for c in dfp.columns]\n",
+    "\n",
+    "        dfp = dfp.reset_index().rename(columns={\n",
+    "            \"Date\": \"trade_date\",\n",
+    "            \"Open\": \"open\",\n",
+    "            \"High\": \"high\",\n",
+    "            \"Low\": \"low\",\n",
+    "            \"Close\": \"close\",\n",
+    "            \"Adj Close\": \"adj_close\",\n",
+    "            \"Volume\": \"volume\"\n",
+    "        })\n",
+    "\n",
+    "        dfp = dfp[[\"trade_date\", \"open\", \"high\", \"low\", \"close\", \"adj_close\", \"volume\"]]\n",
+    "        return dfp\n",
+    "\n",
+    "    except Exception:\n",
+    "        return None"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0d3c6ea8-c38d-4d14-b1b2-27bc28e1f6dd",
+   "metadata": {},
+   "source": [
+    "## 8. Download historical price data for all firms\n",
+    "\n",
+    "This cell loops through the company universe, downloads historical prices ticker by ticker, and stores them in a row-level list before converting to a structured table."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "315bbd96-a88f-497c-ab1b-5a3046384a4b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_comp = company_out[[\"company_id\", \"ticker\"]].drop_duplicates()\n",
+    "daily_rows = []\n",
+    "\n",
+    "for _, row in df_comp.iterrows():\n",
+    "    cid = int(row[\"company_id\"])\n",
+    "    ticker = str(row[\"ticker\"]).strip().upper()\n",
+    "\n",
+    "    print(f\"Fetching {ticker} (company_id={cid}) ...\")\n",
+    "    dfp = fetch_price_fixed_window(ticker)\n",
+    "\n",
+    "    if dfp is None:\n",
+    "        print(f\"Warning: {ticker} has no price data.\")\n",
+    "        continue\n",
+    "\n",
+    "    for rec in dfp.itertuples(index=False, name=None):\n",
+    "        trade_date_raw, open_raw, high_raw, low_raw, close_raw, adj_close_raw, vol_raw = rec\n",
+    "\n",
+    "        trade_date = pd.to_datetime(trade_date_raw).strftime(\"%Y-%m-%d\")\n",
+    "\n",
+    "        def to_num(x):\n",
+    "            if x is None:\n",
+    "                return None\n",
+    "            if isinstance(x, float) and math.isnan(x):\n",
+    "                return None\n",
+    "            return float(x)\n",
+    "\n",
+    "        open_ = to_num(open_raw)\n",
+    "        high_ = to_num(high_raw)\n",
+    "        low_ = to_num(low_raw)\n",
+    "        close_ = to_num(close_raw)\n",
+    "        adj_close_ = to_num(adj_close_raw)\n",
+    "\n",
+    "        if vol_raw is None or (isinstance(vol_raw, float) and math.isnan(vol_raw)):\n",
+    "            vol_ = None\n",
+    "        else:\n",
+    "            vol_ = int(vol_raw)\n",
+    "\n",
+    "        daily_rows.append([cid, trade_date, open_, high_, low_, close_, adj_close_, vol_])\n",
+    "\n",
+    "    time.sleep(0.10)\n",
+    "\n",
+    "print(\"Downloaded row count:\", len(daily_rows))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8824b761-2575-450d-aade-8939b3b96891",
+   "metadata": {},
+   "source": [
+    "## 9. Convert downloaded rows into a structured daily price table\n",
+    "\n",
+    "This cell converts the collected row list into a DataFrame and assigns standardized column names."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "78282a52-5d5a-4295-8344-b0bfbd619c27",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "daily_price_out = pd.DataFrame(\n",
+    "    daily_rows,\n",
+    "    columns=[\"company_id\", \"date\", \"open\", \"high\", \"low\", \"close\", \"adj_close\", \"volume\"]\n",
+    ")\n",
+    "\n",
+    "print(\"Daily price table shape (raw):\", daily_price_out.shape)\n",
+    "display(daily_price_out.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ad8b5f20-a346-40d8-a679-f2b168d7f3d7",
+   "metadata": {},
+   "source": [
+    "## 10. Clean and standardize the daily price table\n",
+    "\n",
+    "This cell converts numeric fields, removes duplicates, sorts the table, and ensures the final daily price dataset is ready for downstream use."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2258c73d-0fc6-4e19-8338-44d1881110f3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "for col in [\"open\", \"high\", \"low\", \"close\", \"adj_close\"]:\n",
+    "    daily_price_out[col] = pd.to_numeric(daily_price_out[col], errors=\"coerce\").round(4)\n",
+    "\n",
+    "daily_price_out[\"volume\"] = pd.to_numeric(\n",
+    "    daily_price_out[\"volume\"], errors=\"coerce\"\n",
+    ").fillna(0).astype(\"int64\")\n",
+    "\n",
+    "daily_price_out = daily_price_out.sort_values([\"company_id\", \"date\"])\n",
+    "daily_price_out = daily_price_out.drop_duplicates(subset=[\"company_id\", \"date\"], keep=\"last\")\n",
+    "\n",
+    "print(\"Daily price table shape (clean):\", daily_price_out.shape)\n",
+    "display(daily_price_out.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "da2a52e7-8902-4586-817e-53ade5558400",
+   "metadata": {},
+   "source": [
+    "## 11. Export the final daily price table\n",
+    "\n",
+    "This cell exports the cleaned historical market data to `daily_price.csv`, which will be used by the clustering and Y-label notebooks."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "665dc6fb-8b71-42eb-9678-66d84b904f55",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "daily_price_out.to_csv(\"daily_price.csv\", header=False, index=False, float_format=\"%.4f\")\n",
+    "print(\"Saved: daily_price.csv\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6dda22be-1d59-4543-a665-184cf352c67f",
+   "metadata": {},
+   "source": [
+    "## 12. Summary of exported intermediate files\n",
+    "\n",
+    "This cell summarizes the outputs produced by this notebook and explains how they connect to downstream modules."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "67bbf110-ff97-40c0-bbd3-9823ca319592",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(\"Pipeline complete.\")\n",
+    "print(\"Generated files:\")\n",
+    "print(\"- base_universe_from_sec.csv\")\n",
+    "print(\"- company.csv\")\n",
+    "print(\"- daily_price.csv\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3.13.5",
+   "language": "python",
+   "name": "py3135"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

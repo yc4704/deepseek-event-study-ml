@@ -1,0 +1,35 @@
+test_block,variable,test,statistic,p_value,p_value_fdr,decision_5pct,decision_5pct_fdr,effect,interpretation
+continuous_vs_CAR,topic_02_ai_semiconductor_design,OLS_HC3,-5.610879369462572,2.0130105552177684e-08,3.422117943870206e-07,Reject,Reject,-0.24695089559583444,negative association with CAR
+continuous_vs_CAR,PC4,OLS_HC3,3.4029389703226456,0.0006666516977263078,0.0056665394306736165,Reject,Reject,0.042460090672712926,positive association with CAR
+continuous_vs_CAR,topic_11_ai_saas_cybersecurity,OLS_HC3,3.185889187561654,0.0014430985985915048,0.008027555815651895,Reject,Reject,0.188804245569468,positive association with CAR
+continuous_vs_CAR,std_sentiment,OLS_HC3,-3.1071763793217335,0.0018888366625063283,0.008027555815651895,Reject,Reject,-0.7468025221107896,negative association with CAR
+continuous_vs_CAR,ratio_strong_negative,OLS_HC3,-2.388664009848335,0.016909758888874447,0.05749318022217312,Reject,Fail to reject,-1.082845544155232,negative association with CAR
+continuous_vs_CAR,mean_sentiment,OLS_HC3,2.241897713026565,0.02496798389222291,0.0707426210279649,Reject,Fail to reject,0.4242617022872009,positive association with CAR
+continuous_vs_CAR,ai_keyword_ratio,OLS_HC3,2.1817181503053797,0.029130340532268893,0.07074511272122445,Reject,Fail to reject,11.651889759276793,positive association with CAR
+continuous_vs_CAR,topic_09_ai_cloud_infrastructure,OLS_HC3,2.1136280177863105,0.034547050901626804,0.07341248316595696,Reject,Fail to reject,0.37251408765554817,positive association with CAR
+continuous_vs_CAR,PC7,OLS_HC3,1.275204319525504,0.2022369328207575,0.3820030953280975,Fail to reject,Fail to reject,0.01764989678837611,positive association with CAR
+continuous_vs_CAR,ratio_strong_positive,OLS_HC3,1.0168615264264103,0.30921930803877007,0.5256728236659091,Fail to reject,Fail to reject,0.1905692680934398,positive association with CAR
+continuous_vs_CAR,PC8,OLS_HC3,-0.9011440967796237,0.36751170962849344,0.5679726421531262,Fail to reject,Fail to reject,-0.010000081349713051,negative association with CAR
+continuous_vs_CAR,PC5,OLS_HC3,-0.698852285790854,0.48464434883927565,0.6865794941889738,Fail to reject,Fail to reject,-0.011578937956910505,negative association with CAR
+continuous_vs_CAR,PC6,OLS_HC3,-0.6067827341543242,0.5439951078944713,0.7113782180158471,Fail to reject,Fail to reject,-0.007764941915838369,negative association with CAR
+continuous_vs_CAR,PC2,OLS_HC3,-0.2061781660664465,0.8366517423967893,0.9438052824870543,Fail to reject,Fail to reject,-0.001815879571574472,negative association with CAR
+continuous_vs_CAR,PC1,OLS_HC3,0.09281842739391194,0.9260478112650039,0.9438052824870543,Fail to reject,Fail to reject,0.0012902092069428139,positive association with CAR
+continuous_vs_CAR,ai_topic_loading_sum,OLS_HC3,-0.07091999834644343,0.9434614270710514,0.9438052824870543,Fail to reject,Fail to reject,-0.0036602952190258253,negative association with CAR
+continuous_vs_CAR,PC3,OLS_HC3,0.07048796094865291,0.9438052824870543,0.9438052824870543,Fail to reject,Fail to reject,0.0005727408128759974,positive association with CAR
+group_diff_Vulnerable_vs_Resilient,topic_02_ai_semiconductor_design,Welch_t_test,5.191186361091078,1.1201229275662508e-06,1.9042089768626263e-05,Reject,Reject,0.20530291408530715,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,ratio_strong_negative,Welch_t_test,3.785727070516606,0.000220574054995199,0.0016074105721606308,Reject,Reject,0.029054284828944454,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,topic_11_ai_saas_cybersecurity,Welch_t_test,-3.734085956388049,0.0002836606892048172,0.0016074105721606308,Reject,Reject,-0.1154884051773752,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,mean_sentiment,Welch_t_test,-3.3884508667241344,0.0009073659400912807,0.003856305245387943,Reject,Reject,-0.05317098646712587,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,PC4,Welch_t_test,-3.2322058362777057,0.001552764634473819,0.005279399757210985,Reject,Reject,-0.6767948085403614,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,std_sentiment,Welch_t_test,2.944526010063526,0.0037547085699290972,0.010638340948132442,Reject,Reject,0.03163423421343381,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,topic_09_ai_cloud_infrastructure,Welch_t_test,-2.4820429270055158,0.014416030200184941,0.035010359057592005,Reject,Reject,-0.037660661471275225,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,ai_keyword_ratio,Welch_t_test,-2.099706340144012,0.03742712719261642,0.0795326452843099,Reject,Fail to reject,-0.0011329948495028606,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,ratio_strong_positive,Welch_t_test,-1.749735265347058,0.08219726572730049,0.15526150192934537,Fail to reject,Fail to reject,-0.027725908742200822,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,PC7,Welch_t_test,-1.2013741162190694,0.23156601921447414,0.39366223266460604,Fail to reject,Fail to reject,-0.23843224170298158,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,PC5,Welch_t_test,1.0072658132085681,0.31552509614697083,0.48762969404531853,Fail to reject,Fail to reject,0.2076214490219238,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,PC2,Welch_t_test,0.5894341097071943,0.5569429596866872,0.7310536062208565,Fail to reject,Fail to reject,0.2948149342809089,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,PC8,Welch_t_test,0.5860259176149446,0.5590409929924196,0.7310536062208565,Fail to reject,Fail to reject,0.11230596716896038,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,ai_topic_loading_sum,Welch_t_test,0.3863472498045144,0.6997940750433991,0.8114713856037521,Fail to reject,Fail to reject,0.020274529693723065,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,PC1,Welch_t_test,0.3236253222643433,0.7468547626985205,0.8114713856037521,Fail to reject,Fail to reject,0.14424719563708965,higher in Vulnerable
+group_diff_Vulnerable_vs_Resilient,PC3,Welch_t_test,-0.3011947907040954,0.7637377746858843,0.8114713856037521,Fail to reject,Fail to reject,-0.09328677179158741,higher in Resilient
+group_diff_Vulnerable_vs_Resilient,PC6,Welch_t_test,-0.1519514564116253,0.8794267895938503,0.8794267895938503,Fail to reject,Fail to reject,-0.03379553484260847,higher in Resilient

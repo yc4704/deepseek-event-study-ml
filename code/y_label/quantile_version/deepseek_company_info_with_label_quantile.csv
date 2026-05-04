@@ -1,0 +1,159 @@
+ticker,company_name,sic,sic_description,label
+SWKS,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices,Vulnerable
+CTS,CTS CORP,3672,Printed Circuit Boards,Vulnerable
+DIOD,DIODES INC /DEL/,3674,Semiconductors & Related Devices,Vulnerable
+HUBB,HUBBELL INC,3670,Electronic Components & Accessories,Vulnerable
+IBM,INTERNATIONAL BUSINESS MACHINES CORP,3570,Computer & office Equipment,Resilient
+KLIC,KULICKE & SOFFA INDUSTRIES INC,3674,Semiconductors & Related Devices,Vulnerable
+MEI,METHODE ELECTRONICS INC,3678,Electronic Connectors,Vulnerable
+MVIS,"MICROVISION, INC.",3679,"Electronic Components, NEC",Vulnerable
+NSSC,"NAPCO SECURITY TECHNOLOGIES, INC",3669,"Communications Equipment, NEC",Vulnerable
+AGYS,AGILYSYS INC,7373,Services-Computer Integrated Systems Design,Vulnerable
+PSN,PARSONS CORP,7373,Services-Computer Integrated Systems Design,Vulnerable
+QMCO,QUANTUM CORP /DE/,3572,Computer Storage Devices,Vulnerable
+RCAT,"Red Cat Holdings, Inc.",7372,Services-Prepackaged Software,Resilient
+VICR,VICOR CORP,3679,"Electronic Components, NEC",Vulnerable
+KOPN,KOPIN CORP,3674,Semiconductors & Related Devices,Vulnerable
+PLXS,PLEXUS CORP,3672,Printed Circuit Boards,Vulnerable
+MSFT,MICROSOFT CORP,7372,Services-Prepackaged Software,Vulnerable
+CLFD,"Clearfield, Inc.",3661,Telephone & Telegraph Apparatus,Vulnerable
+SYNA,SYNAPTICS Inc,3674,Semiconductors & Related Devices,Vulnerable
+MCHP,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices,Vulnerable
+DGII,DIGI INTERNATIONAL INC,3576,Computer Communications Equipment,Resilient
+BHE,BENCHMARK ELECTRONICS INC,3672,Printed Circuit Boards,Vulnerable
+ESE,ESCO TECHNOLOGIES INC,3669,"Communications Equipment, NEC",Resilient
+AMSC,AMERICAN SUPERCONDUCTOR CORP /DE/,3621,Motors & Generators,Resilient
+FCEL,FUELCELL ENERGY INC,3620,Electrical Industrial Apparatus,Vulnerable
+CTLP,"CANTALOUPE, INC.",3578,Calculating & Accounting Machines (No Electronic Computers),Resilient
+INOD,INNODATA INC,7374,Services-Computer Processing & Data Preparation,Resilient
+TCX,TUCOWS INC /PA/,7374,Services-Computer Processing & Data Preparation,Vulnerable
+DDD,3D SYSTEMS CORP,7372,Services-Prepackaged Software,Resilient
+VIAV,VIAVI SOLUTIONS INC.,3674,Semiconductors & Related Devices,Resilient
+ADTN,"ADTRAN Holdings, Inc.",3661,Telephone & Telegraph Apparatus,Resilient
+AEIS,ADVANCED ENERGY INDUSTRIES INC,3679,"Electronic Components, NEC",Vulnerable
+TSEM,TOWER SEMICONDUCTOR LTD,3674,Semiconductors & Related Devices,Vulnerable
+EAF,GRAFTECH INTERNATIONAL LTD,3620,Electrical Industrial Apparatus,Vulnerable
+SCKT,"SOCKET MOBILE, INC.",3571,Electronic Computers,Vulnerable
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,7372,Services-Prepackaged Software,Resilient
+CSGS,CSG SYSTEMS INTERNATIONAL INC,7374,Services-Computer Processing & Data Preparation,Resilient
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES LTD,7372,Services-Prepackaged Software,Resilient
+CLS,CELESTICA INC,3672,Printed Circuit Boards,Resilient
+LOGI,LOGITECH INTERNATIONAL S.A.,3577,"Computer Peripheral Equipment, NEC",Resilient
+FORM,FORMFACTOR INC,3674,Semiconductors & Related Devices,Vulnerable
+FFIV,"F5, INC.",3576,Computer Communications Equipment,Resilient
+MRCY,MERCURY SYSTEMS INC,3670,Electronic Components & Accessories,Resilient
+CNXN,PC CONNECTION INC,5961,Retail-Catalog & Mail-Order Houses,Vulnerable
+AXTI,AXT INC,3674,Semiconductors & Related Devices,Vulnerable
+MANH,MANHATTAN ASSOCIATES INC,7372,Services-Prepackaged Software,Vulnerable
+BB,BLACKBERRY Ltd,7372,Services-Prepackaged Software,Resilient
+EXTR,EXTREME NETWORKS INC,3576,Computer Communications Equipment,Vulnerable
+AUDC,AUDIOCODES LTD,3661,Telephone & Telegraph Apparatus,Resilient
+PLUG,PLUG POWER INC,3620,Electrical Industrial Apparatus,Vulnerable
+ON,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,Vulnerable
+PI,IMPINJ INC,3679,"Electronic Components, NEC",Vulnerable
+LASR,"NLIGHT, INC.",3674,Semiconductors & Related Devices,Vulnerable
+BBBY,"BED BATH & BEYOND, INC.",5961,Retail-Catalog & Mail-Order Houses,Resilient
+ATEYY,ADVANTEST CORP,3674,Semiconductors & Related Devices,Vulnerable
+CVLT,COMMVAULT SYSTEMS INC,7372,Services-Prepackaged Software,Resilient
+FTNT,"Fortinet, Inc.",3577,"Computer Peripheral Equipment, NEC",Resilient
+MXL,"MAXLINEAR, INC",3674,Semiconductors & Related Devices,Vulnerable
+PLTR,Palantir Technologies Inc.,7372,Services-Prepackaged Software,Resilient
+HIMX,"Himax Technologies, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+QVCGA,"QVC Group, Inc.",5961,Retail-Catalog & Mail-Order Houses,Vulnerable
+NOW,"ServiceNow, Inc.",7372,Services-Prepackaged Software,Vulnerable
+SMCI,"Super Micro Computer, Inc.",3571,Electronic Computers,Resilient
+CSIQ,Canadian Solar Inc.,3674,Semiconductors & Related Devices,Vulnerable
+AVNW,"AVIAT NETWORKS, INC.",3663,Radio & Tv Broadcasting & Communications Equipment,Resilient
+AOSL,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674,Semiconductors & Related Devices,Vulnerable
+BEEM,Beam Global,3674,Semiconductors & Related Devices,Vulnerable
+HUBS,HUBSPOT INC,7372,Services-Prepackaged Software,Resilient
+FN,Fabrinet,3661,Telephone & Telegraph Apparatus,Vulnerable
+ATOM,Atomera Inc,3674,Semiconductors & Related Devices,Vulnerable
+PUBM,"PubMatic, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+APPF,APPFOLIO INC,7372,Services-Prepackaged Software,Vulnerable
+DMRC,Digimarc CORP,7373,Services-Computer Integrated Systems Design,Vulnerable
+SITM,SITIME Corp,3674,Semiconductors & Related Devices,Vulnerable
+BLZE,"Backblaze, Inc.",7372,Services-Prepackaged Software,Resilient
+VUZI,Vuzix Corp,3663,Radio & Tv Broadcasting & Communications Equipment,Resilient
+GNRC,GENERAC HOLDINGS INC.,3621,Motors & Generators,Vulnerable
+EXFY,"Expensify, Inc.",7372,Services-Prepackaged Software,Resilient
+NET,"Cloudflare, Inc.",7372,Services-Prepackaged Software,Resilient
+DQ,DAQO NEW ENERGY CORP.,3674,Semiconductors & Related Devices,Resilient
+ASAN,"Asana, Inc.",7372,Services-Prepackaged Software,Resilient
+TDUP,ThredUp Inc.,5961,Retail-Catalog & Mail-Order Houses,Resilient
+MTSI,"MACOM Technology Solutions Holdings, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+PINS,"PINTEREST, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+VNET,"VNET Group, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+XNET,Xunlei Ltd,7372,Services-Prepackaged Software,Resilient
+DOCS,"Doximity, Inc.",7371,Services-Computer Programming Services,Resilient
+SSYS,STRATASYS LTD.,3577,"Computer Peripheral Equipment, NEC",Resilient
+GDS,GDS Holdings Ltd,7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software,Resilient
+DUOL,"Duolingo, Inc.",7372,Services-Prepackaged Software,Resilient
+VISL,"Vislink Technologies, Inc.",3669,"Communications Equipment, NEC",Vulnerable
+DOCN,"DigitalOcean Holdings, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+SHOP,SHOPIFY INC.,7372,Services-Prepackaged Software,Resilient
+WB,WEIBO Corp,7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+MGNI,"MAGNITE, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+RDNW,"RideNow Group, Inc.",7371,Services-Computer Programming Services,Vulnerable
+QRVO,"Qorvo, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+VERI,"Veritone, Inc.",7374,Services-Computer Processing & Data Preparation,Resilient
+W,Wayfair Inc.,5961,Retail-Catalog & Mail-Order Houses,Vulnerable
+ZIP,"ZIPRECRUITER, INC.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+NTNX,"Nutanix, Inc.",7372,Services-Prepackaged Software,Resilient
+BZUN,Baozun Inc.,5961,Retail-Catalog & Mail-Order Houses,Resilient
+CMRC,"Commerce.com, Inc.",7372,Services-Prepackaged Software,Resilient
+LITE,Lumentum Holdings Inc.,3669,"Communications Equipment, NEC",Vulnerable
+NNDM,Nano Dimension Ltd.,3672,Printed Circuit Boards,Resilient
+ICHR,"ICHOR HOLDINGS, LTD.",3674,Semiconductors & Related Devices,Resilient
+GTLB,Gitlab Inc.,7372,Services-Prepackaged Software,Resilient
+KULR,"KULR Technology Group, Inc.",3670,Electronic Components & Accessories,Resilient
+BE,Bloom Energy Corp,3620,Electrical Industrial Apparatus,Vulnerable
+PHUN,"Phunware, Inc.",7374,Services-Computer Processing & Data Preparation,Vulnerable
+CDLX,"Cardlytics, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Vulnerable
+AIP,"Arteris, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+VRT,Vertiv Holdings Co,3679,"Electronic Components, NEC",Vulnerable
+TRVG,trivago N.V.,7374,Services-Computer Processing & Data Preparation,Resilient
+REKR,"Rekor Systems, Inc.",3669,"Communications Equipment, NEC",Resilient
+ESTC,Elastic N.V.,7372,Services-Prepackaged Software,Resilient
+GFS,GLOBALFOUNDRIES Inc.,3674,Semiconductors & Related Devices,Vulnerable
+PAGS,PagSeguro Digital Ltd.,7374,Services-Computer Processing & Data Preparation,Resilient
+RDDT,"Reddit, Inc.",7374,Services-Computer Processing & Data Preparation,Resilient
+SOHU,Sohu.com Ltd,7374,Services-Computer Processing & Data Preparation,Resilient
+OPRA,Opera Ltd,7372,Services-Prepackaged Software,Resilient
+WKEY,Wisekey International Holding S.A.,7374,Services-Computer Processing & Data Preparation,Vulnerable
+BKSY,BlackSky Technology Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,Resilient
+CRKN,Crown Electrokinetics Corp.,3679,"Electronic Components, NEC",Vulnerable
+CLVT,CLARIVATE PLC,7374,Services-Computer Processing & Data Preparation,Vulnerable
+CRNC,Cerence Inc.,7372,Services-Prepackaged Software,Resilient
+XRX,Xerox Holdings Corp,3577,"Computer Peripheral Equipment, NEC",Vulnerable
+BILL,"BILL Holdings, Inc.",7372,Services-Prepackaged Software,Vulnerable
+KC,Kingsoft Cloud Holdings Ltd,7372,Services-Prepackaged Software,Resilient
+RXT,"Rackspace Technology, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+U,Unity Software Inc.,7372,Services-Prepackaged Software,Vulnerable
+SKYT,"SkyWater Technology, Inc",3674,Semiconductors & Related Devices,Vulnerable
+CXAI,CXApp Inc.,7372,Services-Prepackaged Software,Vulnerable
+MSGM,Motorsport Games Inc.,7372,Services-Prepackaged Software,Vulnerable
+NVTS,Navitas Semiconductor Corp,3674,Semiconductors & Related Devices,Vulnerable
+LSPD,Lightspeed Commerce Inc.,7372,Services-Prepackaged Software,Vulnerable
+CGNT,Cognyte Software Ltd.,7372,Services-Prepackaged Software,Resilient
+AUR,"Aurora Innovation, Inc.",7373,Services-Computer Integrated Systems Design,Resilient
+FTCI,"FTC Solar, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+DSP,Viant Technology Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",Resilient
+TUYA,Tuya Inc.,7372,Services-Prepackaged Software,Resilient
+RUM,Rumble Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",Vulnerable
+SHLS,"Shoals Technologies Group, Inc.",3674,Semiconductors & Related Devices,Vulnerable
+SEMR,"SEMrush Holdings, Inc.",7372,Services-Prepackaged Software,Resilient
+KVYO,"Klaviyo, Inc.",7372,Services-Prepackaged Software,Resilient
+YMM,Full Truck Alliance Co. Ltd.,7372,Services-Prepackaged Software,Resilient
+MNDY,monday.com Ltd.,7372,Services-Prepackaged Software,Resilient
+NPWR,NET Power Inc.,3620,Electrical Industrial Apparatus,Vulnerable
+HEPS,D-MARKET Electronic Services & Trading,5961,Retail-Catalog & Mail-Order Houses,Resilient
+ZETA,Zeta Global Holdings Corp.,7372,Services-Prepackaged Software,Resilient
+ARQQ,Arqit Quantum Inc.,7372,Services-Prepackaged Software,Vulnerable
+DH,Definitive Healthcare Corp.,7372,Services-Prepackaged Software,Resilient
+AMPL,"Amplitude, Inc.",7372,Services-Prepackaged Software,Resilient
+GRRR,Gorilla Technology Group Inc.,7372,Services-Prepackaged Software,Resilient
+SVCO,"Silvaco Group, Inc.",7372,Services-Prepackaged Software,Vulnerable
+UMAC,"Unusual Machines, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,Vulnerable
+TE,T1 Energy Inc.,3674,Semiconductors & Related Devices,Vulnerable
